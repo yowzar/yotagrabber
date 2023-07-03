@@ -75,5 +75,4 @@ def update_models():
     models.loc[models["modelCode"] == "gr86", "modelCode"] = "86"
     models.loc[models["modelCode"] == "grsupra", "modelCode"] = "supra"
 
-    print(models.to_string())
     models.to_json("output/models.json", orient="records", indent=2)
