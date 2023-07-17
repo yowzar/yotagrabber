@@ -22,7 +22,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE0PA005536,Oak Lawn Toyota,IL
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,True,Available,JTNABAAE0PA005553,Sunny King Toyota,AL
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,Available,JTNABAAE0PA005567,Hanover Toyota,PA
-2023,Core,Black,AWD,35900,2242.0,38142.0,Port to dealer,True,,JTNABAAE0PA005598,Toyota of Lancaster,CA
+2023,Core,Black,AWD,35900,2242.0,38142.0,At dealer,True,,JTNABAAE0PA005598,Toyota of Lancaster,CA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE0PA005620,Hatch Toyota Stateline,NM
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Factory to port,False,,JTNABAAE0PA005634,Pearson Toyota,VA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,Available,JTNABAAE0PA005679,Hall Toyota Elizabeth City,NC
@@ -73,11 +73,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Core,Black,AWD,35900,0.0,35900.0,Port to dealer,False,DealerHold,JTNABAAE1PA005867,Bob Smith Toyota,CA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,Available,JTNABAAE1PA005884,802 Toyota,VT
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,,JTNABAAE1PA005903,Monken Toyota of Mt. Vernon,IL
-2023,Core,Black,AWD,35900,0.0,35900.0,At dealer,False,,JTNABAAE1PA005917,Capistrano Valley Toyota,CA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,At dealer,False,DealerHold,JTNABAAE1PA005934,Culver City Toyota,CA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE1PA006047,Oroville Toyota,CA
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Factory to port,False,,JTNABAAE1PA006050,Santa Margarita Toyota,CA
-2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Factory to port,False,,JTNABAAE1PA006176,Toyota of Riverside,CA
+2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Factory to port,False,DealerHold,JTNABAAE1PA006176,Toyota of Riverside,CA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,False,,JTNABAAE2PA004310,Wagner Toyota,NE
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,At dealer,False,DealerHold,JTNABAAE2PA004372,Andy Mohr Toyota,IN
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,At dealer,False,Available,JTNABAAE2PA004887,Baldwin Toyota,MO
@@ -91,7 +90,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Core,Black,AWD,35900,0.0,35900.0,Port to dealer,False,DealerHold,JTNABAAE2PA005263,Langway Toyota of Newport,RI
 2023,Core,Black,AWD,35900,1790.0,37690.0,Port to dealer,False,,JTNABAAE2PA005327,Shore Toyota,NJ
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE2PA005358,Team Toyota,IN
-2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,At dealer,True,DealerHold,JTNABAAE2PA005389,Valenti Toyota,RI
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Port to dealer,False,,JTNABAAE2PA005408,Toyota of Orange,CA
 2023,Core,Supersonic Red,AWD,35900,0.0,35900.0,Port to dealer,True,DealerHold,JTNABAAE2PA005490,Modesto Toyota,CA
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Port to dealer,False,DealerHold,JTNABAAE2PA005523,Toyota of Portsmouth,NH
@@ -100,7 +98,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE2PA005568,New Country Toyota of Saratoga Springs,NY
 2023,Core,Ice Cap,AWD,35900,2098.0,37998.0,Port to dealer,True,DealerHold,JTNABAAE2PA005618,Toyota of Surprise,AZ
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE2PA005635,Charlie's Toyota,ME
-2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,At dealer,False,DealerHold,JTNABAAE2PA005649,Toyota of Downtown LA,CA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE2PA005683,Metro Toyota,OH
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE2PA005697,Toyota of Huntington Beach,CA
 2023,Core,Supersonic Red,AWD,35900,0.0,35900.0,Factory to port,False,,JTNABAAE2PA005733,Kendall Toyota,FL
@@ -198,7 +195,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,At dealer,False,DealerHold,JTNABAAE5PA003961,John Weiss' Toyota of South County,MO
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE5PA004172,Straatmann Toyota,MO
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,At dealer,False,Available,JTNABAAE5PA004771,Yark Toyota,OH
-2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,At dealer,False,DealerHold,JTNABAAE5PA004835,Toyota of Murfreesboro,TN
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,,JTNABAAE5PA004866,Riverhead Toyota,NY
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Port to dealer,False,DealerHold,JTNABAAE5PA004897,New Country Toyota of Westport,CT
 2023,Core,Black,AWD,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE5PA004916,Toyota of North Hollywood,CA
@@ -209,7 +205,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE5PA005015,First Team Toyota,VA
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE5PA005032,Sheehy Toyota of Stafford,VA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE5PA005094,Hosmer Toyota,IA
-2023,Core,Ice Cap,AWD,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE5PA005144,Toyota Sunnyvale,CA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE5PA005189,Motor Inn Toyota of Carroll,IA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,True,Available,JTNABAAE5PA005211,John Harvey Toyota,LA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE5PA005290,Okoboji Toyota,IA
@@ -340,7 +335,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE8PA005333,Peppers Toyota,TN
 2023,Core,Black,AWD,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE8PA005378,Jones Toyota,MD
 2023,Core,Supersonic Red,AWD,35900,0.0,35900.0,Port to dealer,False,,JTNABAAE8PA005431,Nelson Toyota,VA
-2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,Available,JTNABAAE8PA005462,Toyota of Tampa Bay,FL
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,,JTNABAAE8PA005493,Haddad Toyota,MA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE8PA005526,Cochran Toyota,PA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE8PA005543,Shottenkirk Toyota,IL
@@ -371,7 +365,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE9PA004790,Carver Toyota of Columbus,IN
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE9PA004952,Toyota of Runnemede,NJ
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,Available,JTNABAAE9PA005003,Toyota of Hollywood,FL
-2023,Circuit Edition,Ice Cap,AWD,42900,1995.0,44895.0,Factory to port,True,DealerHold,JTNABAAE9PA005048,Toyota of Slidell,LA
+2023,Circuit Edition,Ice Cap,AWD,42900,1995.0,44895.0,Port to dealer,True,DealerHold,JTNABAAE9PA005048,Toyota of Slidell,LA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,True,,JTNABAAE9PA005065,Mungenast Alton Toyota,IL
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE9PA005082,Toyota of Somerset,KY
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE9PA005096,Toyota on Edens,IL
@@ -390,10 +384,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Core,Ice Cap,AWD,35900,1295.0,37195.0,Port to dealer,False,,JTNABAAE9PA005499,Jimmy Vasser Toyota,CA
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Port to dealer,False,DealerHold,JTNABAAE9PA005504,Right Toyota,AZ
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE9PA005521,Hertrich Toyota,DE
-2023,Core,Black,AWD,35900,0.0,35900.0,At dealer,False,Available,JTNABAAE9PA005552,North Bakersfield Toyota,CA
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Factory to port,False,Available,JTNABAAE9PA005597,Toyota of Fort Walton Beach,FL
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE9PA005616,Bayside Toyota,MD
-2023,Core,Supersonic Red,AWD,35900,0.0,35900.0,At dealer,False,,JTNABAAE9PA005695,Toyota of North Hollywood,CA
+2023,Core,Supersonic Red,AWD,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE9PA005695,Toyota of North Hollywood,CA
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Port to dealer,False,,JTNABAAE9PA005700,Toyota of The Desert,CA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,Available,JTNABAAE9PA005714,Kendall Toyota,FL
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE9PA005731,Williams Toyota of Sayre,PA
