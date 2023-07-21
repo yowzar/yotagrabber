@@ -13,20 +13,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,2295.0,30950.0,At dealer,True,,4T1C31AK0PU618167,Desert Toyota of Tucson,AZ
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK0PU618458,Jerry's Toyota,MD
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK0PU618900,Sunny King Toyota,AL
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK0PU618914,Rohrich Toyota,PA
+2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,True,DealerHold,4T1C31AK0PU618914,Rohrich Toyota,PA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK0PU619030,City Toyota,CA
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK0PU619061,Sheehy Toyota of Laurel,MD
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK0PU619643,Toyota of Somerset,KY
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,2594.0,31249.0,Port to dealer,False,,4T1C31AK0PU619657,Hudson Toyota,NJ
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,True,DealerHold,4T1C31AK0PU619674,Fred Anderson Toyota of Asheville,NC
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK0PU619755,Koons Tysons Toyota,VA
 2024,Camry LE Hybrid,Ice Cap,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK0RU33D315,City Toyota,MT
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK1PU054626,Peterson Toyota,ID
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,2082.0,30737.0,Port to dealer,True,DealerHold,4T1C31AK1PU055937,Toyota World of Clinton,NJ
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK1PU057252,Camelback Toyota,AZ
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK1PU057882,Koons Westminster Toyota,MD
-2023,Camry LE Hybrid,Ice Edge,FWD,28655,699.0,29354.0,At dealer,True,Available,4T1C31AK1PU058336,Landers Toyota,AR
-2023,Camry LE Hybrid,RESERVOIR BLUE,FWD,28655,3887.0,32542.0,At dealer,False,DealerHold,4T1C31AK1PU058868,Lost Pines Toyota,TX
+2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK1PU058336,Shottenkirk Toyota Weatherford,TX
+2023,Camry LE Hybrid,RESERVOIR BLUE,FWD,28655,3887.0,32542.0,At dealer,False,Available,4T1C31AK1PU058868,Lost Pines Toyota,TX
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK1PU059356,Koons Tysons Toyota,VA
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Factory to port,True,Available,4T1C31AK1PU059454,Fred Haas Toyota Country,TX
 2023,Camry LE Hybrid,Reservoir Blue,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK1PU059499,Joe Machens Toyota,MO
@@ -38,32 +37,31 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK1PU31C812,Massey Toyota,NC
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK1PU617948,DARCARS Toyota,MD
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK1PU618453,Toyota of Tampa Bay,FL
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK1PU618811,Thompson's Toyota of Placerville,CA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK1PU618856,Palm Beach Toyota,FL
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,True,Available,4T1C31AK1PU618906,North Park Toyota of San Antonio,TX
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,1995.0,30650.0,Port to dealer,True,DealerHold,4T1C31AK1PU619005,Toyota Carlsbad,CA
+2023,Camry LE Hybrid,Ice Cap,FWD,28655,1995.0,30650.0,At dealer,True,DealerHold,4T1C31AK1PU619005,Toyota Carlsbad,CA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,True,DealerHold,4T1C31AK1PU619487,AutoNation Toyota Gulf Freeway,TX
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK1PU619683,Heritage Toyota Catonsville,MD
+2024,Camry LE Hybrid,Predawn Gray Mica,FWD,28855,2295.0,31150.0,Factory to port,False,,4T1C31AK1RU35A298,Desert Toyota of Tucson,AZ
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK2PU058457,Palmer's Airport Toyota,AL
-2023,Camry LE Hybrid,Ice Edge,FWD,28655,3795.0,32450.0,Factory to port,True,DealerHold,4T1C31AK2PU058944,Universal Toyota,TX
+2023,Camry LE Hybrid,Ice Edge,FWD,28655,3795.0,32450.0,Port to dealer,False,DealerHold,4T1C31AK2PU058944,Universal Toyota,TX
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK2PU059236,802 Toyota,VT
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,True,DealerHold,4T1C31AK2PU059348,Classic Toyota,IL
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Factory to port,True,DealerHold,4T1C31AK2PU059446,Gullo Toyota of Conroe,TX
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,DealerHold,4T1C31AK2PU30A359,Stevens Creek Toyota,CA
+2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK2PU30A734,Prestige Toyota of Ramsey,NJ
+2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK2PU30B432,Greg Leblanc Toyota,LA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK2PU30C404,Hartford Toyota,CT
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK2PU31C821,Toyota of Vero Beach,FL
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,2594.0,31249.0,Factory to port,False,,4T1C31AK2PU31D676,Hudson Toyota,NJ
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK2PU618073,Ourisman Chantilly Toyota,VA
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,,4T1C31AK2PU618123,Bay Ridge Toyota,NY
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,2995.0,31650.0,At dealer,False,Available,4T1C31AK2PU618493,Classic Toyota,TX
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,True,Available,4T1C31AK2PU618848,Hoselton Toyota,NY
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK2PU619028,Courtesy Toyota,FL
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK2PU619577,Girard Toyota-BMW,CT
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,1226.0,29881.0,Port to dealer,True,,4T1C31AK2PU619739,Toyota of DeKalb,IL
 2024,Camry LE Hybrid,Predawn Gray Mica,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK2RU33A173,New Rochelle Toyota,NY
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK3PU055941,Toyota Universe,NJ
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK3PU056569,Nalley Toyota Union City,GA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK3PU057835,Jerry's Toyota,MD
+2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK3PU058211,Olathe Toyota,KS
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK3PU058483,Bill Page Toyota,VA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK3PU058600,Lithia Toyota of Redding,CA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK3PU058676,City Toyota,MT
@@ -84,16 +82,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK3PU617692,Jim Coleman Toyota,MD
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK3PU618020,Jerry's Toyota,MD
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK3PU618051,Findlay Toyota,NV
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,Available,4T1C31AK3PU618437,Don McGill Toyota of Katy,TX
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,3570.0,32225.0,Port to dealer,False,,4T1C31AK3PU619507,Gateway Toyota,NJ
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,3570.0,32225.0,At dealer,False,,4T1C31AK3PU619507,Gateway Toyota,NJ
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK3PU619510,Larry Lassen Toyota,OR
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK3PU619555,Boch Toyota,MA
-2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK3PU619734,Miracle Toyota of North Augusta,SC
+2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK3PU619734,Miracle Toyota of North Augusta,SC
 2024,Camry LE Hybrid,Midnight Black Metallic,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK3RU32G598,Hillside Toyota,NY
 2024,Camry LE Hybrid,Ice Edge,FWD,28855,0.0,28855.0,Factory to port,False,DealerHold,4T1C31AK3RU33E250,Hoffman Toyota,CT
+2024,Camry LE Hybrid,Predawn Gray Mica,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK3RU35B744,Romeoville Toyota,IL
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK4PU056127,Miller Toyota,VA
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,3997.0,32652.0,Port to dealer,True,Available,4T1C31AK4PU058380,Jeff Hunter Toyota,TX
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK4PU058556,A-1 Toyota,CT
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,799.0,29454.0,At dealer,False,Available,4T1C31AK4PU058637,Landers Toyota NWA,AR
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK4PU058721,City World Toyota,NY
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK4PU058766,Dolan Toyota,NV
@@ -106,14 +103,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK4PU31C822,Venice Toyota,FL
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK4PU31D419,Fred Anderson Toyota of Sanford,NC
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK4PU31D436,Lynch Toyota,CT
-2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK4PU31D677,Fordham Toyota,NY
+2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK4PU31D677,Prestige Toyota of Ramsey,NJ
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK4PU31D680,Toyota City,NY
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28355,0.0,28355.0,Factory to port,False,DealerHold,4T1C31AK4PU613778,Victory Toyota,CA
+2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28355,0.0,28355.0,Factory to port,True,DealerHold,4T1C31AK4PU613778,Victory Toyota,CA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK4PU615711,Oakes Toyota,MS
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK4PU616048,Advantage Toyota,NY
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK4PU617717,Findlay Toyota,NV
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,Available,4T1C31AK4PU618267,One Toyota of Oakland,CA
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK4PU618608,Dahl Toyota,MN
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK4PU618608,Dahl Toyota,MN
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK4PU619225,Toyota of Portsmouth,NH
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK4PU619404,Rhinelander Toyota,WI
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK4PU619502,Imperial Toyota,MA
@@ -128,37 +125,33 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK5PU058419,Sheehy Toyota of Laurel,MD
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK5PU058484,Toyota of Fort Walton Beach,FL
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,2295.0,30950.0,At dealer,True,Available,4T1C31AK5PU058534,Desert Toyota of Tucson,AZ
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK5PU058548,Brent Brown Toyota,UT
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK5PU058632,Pat Lobb Toyota of McKinney,TX
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK5PU058792,Doral Toyota,FL
-2023,Camry LE Hybrid,SUPERSONIC RED,FWD,28655,3490.0,32145.0,Port to dealer,True,DealerHold,4T1C31AK5PU059036,Fred Haas Toyota World,TX
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU059134,New Holland Toyota,PA
+2023,Camry LE Hybrid,SUPERSONIC RED,FWD,28655,3490.0,32145.0,At dealer,True,DealerHold,4T1C31AK5PU059036,Fred Haas Toyota World,TX
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK5PU059134,New Holland Toyota,PA
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU059165,Koons Westminster Toyota,MD
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK5PU059425,Toyota of Laramie,WY
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,True,Available,4T1C31AK5PU30A470,Mungenast Alton Toyota,IL
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK5PU30A579,Buckeye Toyota,OH
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK5PU30C395,Steven Toyota,VA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK5PU31A335,Germain Toyota of Naples,FL
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK5PU31C179,Jim Hudson Toyota,SC
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,True,,4T1C31AK5PU31C392,San Francisco Toyota,CA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,True,DealerHold,4T1C31AK5PU31C425,Rudy Luther Toyota,MN
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK5PU31C814,Peter Boulware Toyota,FL
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK5PU618729,Mills Toyota,MN
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,1295.0,29950.0,At dealer,False,,4T1C31AK5PU618908,Jimmy Vasser Toyota,CA
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,1495.0,30150.0,At dealer,False,Available,4T1C31AK5PU619007,Price LeBlanc Toyota,LA
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,1495.0,30150.0,At dealer,True,DealerHold,4T1C31AK5PU619007,Price LeBlanc Toyota,LA
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,True,Available,4T1C31AK5PU619234,Toyota South,KY
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK5PU619427,Mike Erdman Toyota,FL
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU619492,Right Toyota,AZ
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK5PU619511,Ardmore Toyota,PA
+2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,True,DealerHold,4T1C31AK5PU619511,Ardmore Toyota,PA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU619573,Stevens Creek Toyota,CA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU619590,Dolan Toyota,NV
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU619668,Heritage Toyota Catonsville,MD
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,True,,4T1C31AK5PU619671,Ourisman Fairfax Toyota,VA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK5PU619704,"Cedar Rapids Toyota, Inc.",IA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK6PU058154,Toyota of San Bernardino,CA
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK6PU058669,Findlay Toyota,NV
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK6PU058784,Lithia Toyota of Redding,CA
-2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK6PU059255,Metro Toyota,OH
+2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK6PU058669,Findlay Toyota,NV
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK6PU059336,"Bristol Toyota, Inc.",MA
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,2987.0,31642.0,Port to dealer,False,DealerHold,4T1C31AK6PU059353,South Coast Toyota,CA
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK6PU059367,Toyota of North Charlotte,NC
@@ -170,7 +163,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,1397.0,30052.0,Factory to port,True,DealerHold,4T1C31AK6PU30B935,DCH Wappingers Falls Toyota,NY
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,5112.0,33767.0,Factory to port,False,,4T1C31AK6PU31A540,Norm Reeves Toyota San Diego,CA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,DealerHold,4T1C31AK6PU31A893,Interstate Toyota,NY
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK6PU31B154,Lithia Toyota of Klamath Falls,OR
+2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,True,,4T1C31AK6PU31B154,Lithia Toyota of Klamath Falls,OR
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK6PU31C191,Wesley Chapel Toyota,FL
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK6PU31C823,Toyota of Melbourne,FL
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,DealerHold,4T1C31AK6PU31D423,Nalley Toyota of Roswell,GA
@@ -181,7 +174,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,True,DealerHold,4T1C31AK6PU619601,Napleton's Toyota of Urbana,IL
 2024,Camry LE Hybrid,Ice Cap,FWD,28855,0.0,28855.0,Factory to port,True,,4T1C31AK6RU32A939,"Stapp Interstate Toyota, Inc.",CO
 2024,Camry LE Hybrid,Supersonic Red,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK6RU33D268,Lia Toyota of Northampton,MA
-2023,Camry LE Hybrid,Ice Edge,FWD,28655,1098.0,29753.0,Factory to port,True,Available,4T1C31AK7PU058423,Toyota of Cedar Park,TX
+2023,Camry LE Hybrid,Ice Edge,FWD,28655,1098.0,29753.0,Port to dealer,True,Available,4T1C31AK7PU058423,Toyota of Cedar Park,TX
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,2295.0,30950.0,At dealer,False,,4T1C31AK7PU058745,Desert Toyota of Tucson,AZ
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK7PU059250,Dan Cava's Toyota World,WV
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK7PU059264,Centennial Toyota,NV
@@ -193,12 +186,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK7PU618800,Tracy Toyota,CA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK7PU619400,Precision Toyota of Tucson,AZ
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK7PU619512,Jim Coleman Toyota,MD
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK7PU619557,Toyota of Cleveland,TN
+2024,Camry LE Hybrid,Celestial Silver Metallic,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK7RU34C691,Modesto Toyota,CA
+2024,Camry LE Hybrid,Midnight Black Metallic,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK7RU34E148,Continental Toyota,IL
 2022,Camry LE Hybrid,White,FWD,27980,0.0,27980.0,Factory to port,False,DealerHold,4T1C31AK8NU594021,Centennial Toyota,NV
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK8PU056535,Toyota of Bowie,MD
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK8PU057815,Conklin Toyota Salina,KS
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK8PU058818,Olathe Toyota,KS
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK8PU059127,Haley Toyota of Farmville,VA
+2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK8PU059127,Haley Toyota of Farmville,VA
 2023,Camry LE Hybrid,SUPERSONIC RED,FWD,28655,1999.0,30654.0,Factory to port,False,Available,4T1C31AK8PU059239,Fred Haas Toyota Country,TX
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,True,,4T1C31AK8PU30B435,Alderman's Toyota,VT
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1C31AK8PU31C192,Venice Toyota,FL
@@ -206,7 +200,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK8PU31C810,Sunny King Toyota,AL
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK8PU617946,Jim Coleman Toyota,MD
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK8PU618045,I-5 Toyota,WA
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK8PU618577,Lithia Toyota of Redding,CA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK8PU619390,Toyota of Vero Beach,FL
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK8PU619437,University Toyota,WV
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK8PU619454,Koons Tysons Toyota,VA
@@ -219,9 +212,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,1695.0,30350.0,Port to dealer,False,,4T1C31AK9PU057144,Findlay Toyota Prescott,AZ
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK9PU057581,Right Toyota,AZ
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1C31AK9PU057791,Pearson Toyota,VA
-2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK9PU058133,Toyota of Deerfield Beach,FL
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,2777.0,31432.0,Port to dealer,True,DealerHold,4T1C31AK9PU058231,AutoNation Toyota Buena Park,CA
-2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK9PU058262,Post Oak Toyota,OK
+2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,True,Available,4T1C31AK9PU058262,Post Oak Toyota,OK
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK9PU059329,Allegheny Toyota,PA
 2023,Camry LE Hybrid,RESERVOIR BLUE,FWD,28655,1098.0,29753.0,Port to dealer,True,Available,4T1C31AK9PU059539,Toyota of Cedar Park,TX
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,Available,4T1C31AK9PU31B150,Lynch Toyota,CT
@@ -229,17 +221,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,1790.0,30445.0,At dealer,False,,4T1C31AK9PU618247,Shore Toyota,NJ
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK9PU618376,TeamOne Toyota of Gadsden,AL
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK9PU618720,West Kendall Toyota,FL
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK9PU618975,Thompson's Toyota of Placerville,CA
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK9PU619074,Toyota of Pasadena,CA
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AK9PU619074,Toyota of Pasadena,CA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK9PU619477,Stevens Creek Toyota,CA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1C31AK9PU619513,AutoNation Toyota Weston,FL
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1C31AK9PU619558,Checkered Flag Toyota,VA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,1695.0,30350.0,Port to dealer,False,,4T1C31AK9PU619561,Findlay Toyota Prescott,AZ
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1C31AK9PU619690,Luther Brookdale Toyota,MN
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AK9PU619706,Koons Tysons Toyota,VA
+2024,Camry LE Hybrid,Celestial Silver Metallic,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AK9RU34F012,Stevens Creek Toyota,CA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AKXPU058058,Corwin Toyota of Bellevue,NE
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AKXPU058643,David Wilson's Toyota of Las Vegas,NV
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,Available,4T1C31AKXPU058691,Teton Toyota,ID
+2023,Camry LE Hybrid,Ice Edge,FWD,28655,5995.0,34650.0,Factory to port,False,Available,4T1C31AKXPU059355,Toyota of Richardson,TX
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AKXPU059520,Jim Coleman Toyota,MD
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Factory to port,False,DealerHold,4T1C31AKXPU30A321,Newburgh Toyota,NY
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,899.0,29554.0,Factory to port,False,,4T1C31AKXPU30B436,Walker Toyota,OH
@@ -253,10 +246,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AKXPU619083,McGee Toyota,MA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,DealerHold,4T1C31AKXPU619195,Koch 33 Toyota,PA
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,,4T1C31AKXPU619522,San Francisco Toyota,CA
+2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,True,DealerHold,4T1C31AKXPU619570,International Toyota,WI
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AKXPU619682,Toyota of Hackensack,NJ
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1C31AKXPU619732,Koons Tysons Toyota,VA
+2024,Camry LE Hybrid,Ice Cap,FWD,28855,1695.0,30550.0,Factory to port,False,Available,4T1C31AKXRU32A927,Anderson Toyota,AZ
+2024,Camry LE Hybrid,Ice Cap,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AKXRU32B043,Handy Toyota,VT
 2024,Camry LE Hybrid,Ice Cap,FWD,28855,0.0,28855.0,Factory to port,False,,4T1C31AKXRU32B480,Green Toyota,IL
-2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK0PU056994,"Molle Toyota, Inc.",MO
+2024,Camry LE Hybrid,Celestial Silver Metallic,FWD,28855,3489.0,32344.0,Factory to port,False,,4T1C31AKXRU34A613,Russ Darrow Toyota,WI
+2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK0PU056994,"Molle Toyota, Inc.",MO
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK0PU057482,Ammaar's Toyota Vacaville,CA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK0PU058194,Cornhusker Toyota,NE
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK0PU059216,Northtown Toyota,NY
@@ -268,28 +265,27 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK0PU616304,Loyalty Toyota,VA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK0PU616416,Fallon Ford Toyota,NV
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,True,Available,4T1F31AK0PU617288,Doxon Toyota,WA
-2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK0PU617615,Burien Toyota,WA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK0PU617761,Riverhead Toyota,NY
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK0PU618652,Baxter Toyota of Lincoln,NE
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK0PU618795,Rogers Toyota of Hermiston,OR
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK0PU618893,Freeman Toyota,CA
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK0PU618960,John Harvey Toyota,LA
+2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK0PU618960,John Harvey Toyota,LA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK0PU619283,Wilsonville Toyota,OR
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,True,,4T1F31AK0PU619476,Toyota of Des Moines,IA
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK0RU32D459,Concord Toyota,CA
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,DealerHold,4T1F31AK0RU32D834,Bayside Toyota,MD
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK0RU32F552,Team Toyota,IN
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK0RU32G278,Copeland Toyota,MA
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,395.0,34140.0,Factory to port,False,,4T1F31AK0RU33A752,Toyota of Olympia,WA
+2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,DealerHold,4T1F31AK0RU33B402,Toyota of Murray,KY
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK1PU055174,Lee Toyota,ME
-2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK1PU058401,Toyota of Gladstone,OR
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK1PU058625,Harr Toyota,SD
-2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK1PU059080,Rochester Toyota,MN
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,4488.0,38033.0,Port to dealer,False,DealerHold,4T1F31AK1PU059399,Toyota of Renton,WA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK1PU059449,Premier Toyota,NE
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK1PU30B418,Lewis Toyota of Topeka,KS
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK1PU30B449,Stephen Wade Toyota,UT
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK1PU30C391,Rudy Luther Toyota,MN
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK1PU31A748,Stevens Creek Toyota,CA
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,DealerHold,4T1F31AK1PU31A748,Stevens Creek Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK1PU618191,Novato Toyota,CA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,399.0,33944.0,At dealer,False,DealerHold,4T1F31AK1PU618286,Bommarito Toyota,MO
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK1PU618384,Royal Moore Toyota,OR
@@ -299,8 +295,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK1PU618756,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK1PU618840,Rogers Toyota of Hermiston,OR
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,1295.0,34840.0,At dealer,False,,4T1F31AK1PU618871,Jimmy Vasser Toyota,CA
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK1PU618921,Royal Moore Toyota,OR
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK1PU619034,Toyota of Easley,SC
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK1PU618921,Royal Moore Toyota,OR
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,4488.0,38033.0,Port to dealer,False,DealerHold,4T1F31AK1PU619065,Toyota of Kirkland,WA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK1PU619163,Toyota Carlsbad,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK1PU619471,Capitol Toyota of Salem,OR
@@ -315,6 +310,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XLE Hybrid,Supersonic Red,FWD,33745,0.0,33745.0,Factory to port,False,Available,4T1F31AK1RU33E163,Anderson-Weber Toyota,IA
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK1RU33E292,Concord Toyota,CA
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK1RU33E342,Findlay Toyota Flagstaff,AZ
+2024,Camry XLE Hybrid,Reservoir Blue,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK1RU34F499,Magnussen's Toyota of Palo Alto,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK2PU054843,Kendall Toyota,FL
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK2PU058410,Joe Machens Toyota,MO
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK2PU058925,Putnam Toyota,CA
@@ -322,30 +318,28 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK2PU30A259,Stevens Creek Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK2PU30A780,Quality Toyota,MN
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,True,Available,4T1F31AK2PU31A760,San Francisco Toyota,CA
-2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,395.0,33940.0,At dealer,False,Available,4T1F31AK2PU617440,Toyota of Olympia,WA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK2PU618300,Adams Toyota Lee's Summit,MO
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK2PU618362,Findlay Toyota Prescott,AZ
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK2PU618491,City Toyota,MT
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK2PU618751,Findlay Toyota,NV
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,1798.0,35343.0,At dealer,False,,4T1F31AK2PU618815,Toyota of Portland on Broadway,OR
-2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK2PU618944,David Wilson's Toyota of Las Vegas,NV
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK2PU619026,Peterson Toyota,ID
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK2PU619298,Luther Brookdale Toyota,MN
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK2PU619348,Manhattan Beach Toyota,CA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK2PU619429,Lewis Toyota of Garden City,KS
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,1390.0,34935.0,Port to dealer,False,,4T1F31AK2PU619527,Toyota Chula Vista,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,299.0,33844.0,Port to dealer,False,,4T1F31AK2PU619592,Team Toyota,PA
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK2PU619723,Capitol Toyota of Salem,OR
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK2PU619723,Capitol Toyota of Salem,OR
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK2RU32B325,Concord Toyota,CA
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK2RU32D365,Coad Toyota Paducah,KY
 2024,Camry XLE Hybrid,Reservoir Blue,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK2RU32E029,Copeland Toyota,MA
-2024,Camry XLE Hybrid,Reservoir Blue,FWD,33745,0.0,33745.0,Factory to port,False,Available,4T1F31AK2RU33F418,Faulkner Toyota,PA
+2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,Available,4T1F31AK2RU33F418,Faulkner Toyota,PA
 2024,Camry XLE Hybrid,Supersonic Red,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK2RU33F466,Baxter Toyota of Lincoln,NE
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33245,0.0,33245.0,At dealer,False,Available,4T1F31AK3PU052499,Lynch Toyota,CT
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK3PU057928,Findlay Toyota,NV
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK3PU059016,Toyota of Puyallup,WA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK3PU059212,Baxter Toyota of La Vista,NE
-2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK3PU059274,Walser Bloomington Toyota,MN
+2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK3PU059274,Walser Bloomington Toyota,MN
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK3PU059310,Watermark Toyota,KY
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK3PU059338,Stevens Creek Toyota,CA
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,1397.0,34942.0,Factory to port,True,DealerHold,4T1F31AK3PU30A724,DCH Wappingers Falls Toyota,NY
@@ -362,7 +356,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,1634.0,35379.0,Factory to port,False,,4T1F31AK3RU32F691,AutoNation Toyota Hayward,CA
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,DealerHold,4T1F31AK3RU32G310,Jim White Toyota,OH
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,True,DealerHold,4T1F31AK3RU33B443,Warrenton Toyota,VA
+2024,Camry XLE Hybrid,Supersonic Red,FWD,33745,1274.0,35019.0,Factory to port,False,,4T1F31AK3RU33B667,Tom Wood Toyota,IN
 2024,Camry XLE Hybrid,Reservoir Blue,FWD,33745,1634.0,35379.0,Factory to port,False,,4T1F31AK3RU33E343,AutoNation Toyota Hayward,CA
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK3RU35C230,Magnussen's Toyota of Palo Alto,CA
+2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK3RU35F032,Carlson Toyota,MN
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,1274.0,34819.0,At dealer,False,,4T1F31AK4PU057971,Tom Wood Toyota,IN
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,1599.0,35144.0,Factory to port,True,DealerHold,4T1F31AK4PU058179,Fowler Toyota,OK
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK4PU058408,Minot Toyota Center,ND
@@ -374,7 +371,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK4PU618301,Woodrum Toyota of Macomb,IL
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK4PU618847,Riverside Toyota of Escanaba,MI
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK4PU618928,Sharp Chevrolet-Toyota,SD
-2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK4PU619397,Toyota of Keene,NH
+2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK4PU619397,Toyota of Keene,NH
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK4PU619688,Toyota of Wellesley,MA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK4PU619769,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK4PU619772,Ken Nelson Toyota,IL
@@ -383,6 +380,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,1634.0,35379.0,Factory to port,False,,4T1F31AK4RU33D217,AutoNation Toyota Hayward,CA
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK4RU33D458,Hesser Toyota,WI
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK4RU33E187,Advantage Toyota of River Oaks,IL
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK4RU35B961,Magnussen's Toyota of Palo Alto,CA
+2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,1695.0,35440.0,Factory to port,False,,4T1F31AK4RU35C009,Anderson Toyota,AZ
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK5PU055758,Toyota of Selma,CA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK5PU056540,Novato Toyota,CA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK5PU059003,Adams Toyota Lee's Summit,MO
@@ -395,21 +394,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK5PU059602,Grants Pass Toyota,OR
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK5PU28B237,Craig Toyota,IN
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK5PU30A255,Sierra Toyota,AZ
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,32970,0.0,32970.0,At dealer,False,DealerHold,4T1F31AK5PU606478,Dublin Toyota,CA
+2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,32970,0.0,32970.0,At dealer,False,Available,4T1F31AK5PU606478,Dublin Toyota,CA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK5PU618288,World Toyota,GA
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,995.0,34540.0,At dealer,False,,4T1F31AK5PU618405,Future Toyota of Yuba City,CA
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK5PU618405,Future Toyota of Yuba City,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK5PU618601,Tracy Toyota,CA
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK5PU618629,Yokem Toyota,LA
+2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK5PU618629,Yokem Toyota,LA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK5PU618646,Expressway Toyota,MA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK5PU619313,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK5PU619568,Lloyds Toyota,ND
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK5PU619585,Irwin Toyota,NH
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK5PU619618,Woodrum Toyota of Macomb,IL
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,5580.0,39125.0,Port to dealer,False,,4T1F31AK5PU619800,Kearny Mesa Toyota,CA
+2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,2295.0,36040.0,Factory to port,False,,4T1F31AK5RU32B433,Desert Toyota of Tucson,AZ
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK5RU33A844,Dahl Toyota,MN
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK5RU33D128,Toyota on Edens,IL
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK5RU33D310,Toyota Carlsbad,CA
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK5RU33E263,One Toyota of Oakland,CA
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK5RU35C844,Magnussen's Toyota of Palo Alto,CA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU057650,Elk Grove Toyota,CA
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU057700,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK6PU057972,Baxter Toyota of Lincoln,NE
@@ -417,7 +418,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU058300,Lewis Toyota of Dodge City,KS
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU058331,Kari Toyota,WI
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU058796,AutoNation Toyota Spokane Valley,WA
-2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK6PU058927,DCH Brunswick Toyota,NJ
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK6PU059222,Vancouver Toyota,WA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,4490.0,38035.0,Port to dealer,False,Available,4T1F31AK6PU059303,Berge Toyota,AZ
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK6PU059463,Freeman Toyota,CA
@@ -426,41 +426,44 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,1495.0,35040.0,Factory to port,False,Available,4T1F31AK6PU30A782,Kokomo Toyota,IN
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK6PU30B446,Elgin Toyota,IL
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,2295.0,35840.0,Factory to port,False,,4T1F31AK6PU31D712,Desert Toyota of Tucson,AZ
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK6PU614900,Wilsonville Toyota,OR
+2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK6PU614900,Toyota of Portland on Broadway,OR
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU616162,Ammaar's Toyota Vacaville,CA
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK6PU617120,Modesto Toyota,CA
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK6PU617120,Modesto Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK6PU617666,Toyota of Deerfield Beach,FL
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK6PU618171,Serra Toyota of Traverse City,MI
-2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK6PU618378,Toyota of Puyallup,WA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU618400,Tracy Toyota,CA
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU618672,Butte Toyota,MT
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK6PU618817,Royal Moore Toyota,OR
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK6PU618817,Royal Moore Toyota,OR
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU618963,Lake Toyota,ND
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,True,,4T1F31AK6PU619207,Wilson Toyota,IA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU619224,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK6PU619241,McGee Toyota,MA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK6PU619448,Toyota of Wellesley,MA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK6PU619501,AutoNation Toyota Weston,FL
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK6PU619532,Miracle Toyota,FL
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK6PU619532,Miracle Toyota,FL
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK6PU619563,Toyota of Watertown,MA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK6PU619630,Team Toyota,NE
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK6PU619711,Camelback Toyota,AZ
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,2295.0,36040.0,Factory to port,False,,4T1F31AK6RU32B019,Desert Toyota of Tucson,AZ
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK6RU32B313,Toyota of Muncie,IN
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,DealerHold,4T1F31AK6RU32B621,Copeland Toyota,MA
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,0.0,33745.0,Factory to port,True,,4T1F31AK6RU32D370,Carlson Toyota,MN
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK6RU32G124,Evans Toyota,IN
 2024,Camry XLE Hybrid,Supersonic Red,FWD,33745,0.0,33745.0,Factory to port,True,DealerHold,4T1F31AK6RU32G334,Modesto Toyota,CA
+2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK6RU33B386,Bill Page Toyota,VA
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK6RU33D252,Continental Toyota,IL
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK6RU34C923,Stevens Creek Toyota,CA
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK7PU057639,Toyota Sunnyvale,CA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK7PU057754,Elk Grove Toyota,CA
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK7PU058824,Labadie Toyota,MI
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK7PU059469,Beechmont Toyota,OH
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK7PU059486,Kerry Toyota,KY
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK7PU30B391,One Toyota of Oakland,CA
+2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK7PU30C380,Toyota of Fayetteville,AR
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,32970,0.0,32970.0,Factory to port,True,,4T1F31AK7PU600598,Avondale Toyota,AZ
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33245,0.0,33245.0,At dealer,False,DealerHold,4T1F31AK7PU615862,Rogers Toyota of Hermiston,OR
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK7PU617014,Deery Brothers Toyota,IA
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK7PU617093,Adams Toyota Lee's Summit,MO
+2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK7PU617093,Adams Toyota Lee's Summit,MO
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK7PU617501,Dick Hannah Toyota,WA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,1295.0,34840.0,At dealer,False,,4T1F31AK7PU618065,Auburn Toyota,CA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK7PU618146,Yellowstone Toyota,WY
@@ -474,7 +477,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK7PU619538,Atlantic Toyota,MA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK7PU619541,Coggins Toyota of Bennington,VT
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,DealerHold,4T1F31AK7PU619569,Palm Beach Toyota,FL
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK7PU619622,Lakeland Toyota,FL
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK7PU619622,Lakeland Toyota,FL
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,989.0,34734.0,Factory to port,False,DealerHold,4T1F31AK7RU32A896,Dayton Toyota,NJ
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU32B434,Team Toyota of Glen Mills,PA
 2024,Camry XLE Hybrid,Reservoir Blue,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU32F788,Baxter Toyota of Lincoln,NE
@@ -484,6 +487,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,True,DealerHold,4T1F31AK7RU33D342,Smart Toyota,WI
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU33D406,Modesto Toyota,CA
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU33E331,One Toyota of Oakland,CA
+2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU34A615,Magnussen's Toyota of Palo Alto,CA
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU35A111,Magnussen's Toyota of Palo Alto,CA
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK7RU35B971,Smart Toyota,WI
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,1295.0,34840.0,Port to dealer,True,DealerHold,4T1F31AK8PU057214,Auburn Toyota,CA
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK8PU058914,Toyota of Gladstone,OR
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK8PU059089,Luv Toyota,NY
@@ -505,7 +511,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK8PU619449,Hamer Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK8PU619600,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,True,,4T1F31AK8PU619659,San Francisco Toyota,CA
-2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,DealerHold,4T1F31AK8PU619693,Stokes Toyota Hilton Head,SC
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK8PU619709,Bev Smith Toyota,FL
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK8PU619788,Toyota of Anaheim,CA
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK8RU32D824,Dan Deery Toyota,IA
@@ -516,9 +521,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK8RU33D477,Santa Margarita Toyota,CA
 2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,888.0,34633.0,Factory to port,False,,4T1F31AK8RU33E273,Romeoville Toyota,IL
 2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK8RU33F455,Santa Margarita Toyota,CA
+2024,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AK8RU35A117,Elgin Toyota,IL
 2023,Camry XLE Hybrid,Reservoir Blue,FWD,33245,0.0,33245.0,At dealer,False,Available,4T1F31AK9PU052426,New Rochelle Toyota,NY
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK9PU056623,Rochester Toyota,MN
-2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AK9PU058890,Toyota of Puyallup,WA
+2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK9PU058890,Toyota of Puyallup,WA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK9PU058940,Denny Menholt Toyota,SD
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK9PU059005,Toyota of Puyallup,WA
 2023,Camry XLE Hybrid,Supersonic Red,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK9PU059196,Camelback Toyota,AZ
@@ -526,15 +532,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK9PU059473,Toyota of Gladstone,OR
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK9PU059523,Serra Toyota of Traverse City,MI
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,798.0,34343.0,Factory to port,False,,4T1F31AK9PU31A822,Newbold Toyota,IL
+2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AK9PU31A903,Kolosso Toyota,WI
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK9PU31C442,Wesley Chapel Toyota,FL
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Factory to port,False,,4T1F31AK9PU31C490,Modesto Toyota,CA
-2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK9PU617645,Heartland Toyota,WA
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AK9PU618021,Capitol Toyota of Salem,OR
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AK9PU618455,San Francisco Toyota,CA
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK9PU618522,Columbia Gorge Toyota,OR
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,1798.0,35343.0,At dealer,False,,4T1F31AK9PU618553,Toyota of Portland on Broadway,OR
-2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK9PU619041,Rogers Toyota of Hermiston,OR
-2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AK9PU619282,K.C. Summers Toyota,IL
+2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AK9PU619041,Rogers Toyota of Hermiston,OR
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AK9PU619329,Toyota of Greenfield,MA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,DealerHold,4T1F31AK9PU619623,Vancouver Toyota,WA
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AK9PU619654,Freeman Toyota,CA
@@ -549,6 +554,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Port to dealer,True,DealerHold,4T1F31AKXPU616407,Ardmore Toyota,PA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AKXPU617332,Ammaar's Toyota Vacaville,CA
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AKXPU617430,Green Toyota,IL
+2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AKXPU617587,Karl Malone Toyota,UT
 2023,Camry XLE Hybrid,Midnight Black Metallic,FWD,33545,0.0,33545.0,At dealer,False,,4T1F31AKXPU617623,Toyota Marin,CA
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,DealerHold,4T1F31AKXPU618240,Dan Cava's Toyota World,WV
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AKXPU618335,Toyota of Brookfield,WI
@@ -556,6 +562,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,At dealer,False,Available,4T1F31AKXPU618965,Allegheny Toyota,PA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,At dealer,True,DealerHold,4T1F31AKXPU619176,Freeman Toyota,CA
 2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,1098.0,34643.0,Factory to port,True,Available,4T1F31AKXPU619386,Toyota of Cedar Park,TX
+2023,Camry XLE Hybrid,Celestial Silver Metallic,FWD,33545,0.0,33545.0,Factory to port,False,Available,4T1F31AKXPU619498,Toyota of Laredo,TX
 2023,Camry XLE Hybrid,Wind Chill Pearl,FWD,33545,0.0,33545.0,Port to dealer,True,,4T1F31AKXPU619551,Sierra Toyota,AZ
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,,4T1F31AKXPU619615,Hanlees Hilltop Toyota,CA
 2023,Camry XLE Hybrid,Predawn Gray Mica,FWD,33545,0.0,33545.0,Port to dealer,False,Available,4T1F31AKXPU619713,Bill Wright Toyota,CA
@@ -566,8 +573,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XLE Hybrid,Wind Chill Pearl,FWD,33745,0.0,33745.0,Factory to port,False,Available,4T1F31AKXRU32F753,Lia Toyota,MA
 2024,Camry XLE Hybrid,Midnight Black Metallic,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AKXRU33A810,St. Charles Toyota,IL
 2024,Camry XLE Hybrid,Reservoir Blue,FWD,33745,0.0,33745.0,Factory to port,False,,4T1F31AKXRU33B486,Team Toyota,OH
+2024,Camry XLE Hybrid,Predawn Gray Mica,FWD,33745,0.0,33745.0,Factory to port,True,,4T1F31AKXRU34E030,Beck Toyota,IN
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,30890,0.0,30890.0,Factory to port,False,DealerHold,4T1G31AK0PU054182,Toyota of Vallejo,CA
-2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK0PU058443,David Wilson's Toyota of Las Vegas,NV
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,2995.0,33185.0,Port to dealer,False,DealerHold,4T1G31AK0PU058782,Paul Miller Toyota of West Caldwell,NJ
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK0PU059267,Toyota of Glendale,CA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1G31AK0PU059429,Heritage Toyota Harrisburg,PA
@@ -585,10 +592,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,2777.0,32967.0,Port to dealer,False,,4T1G31AK0PU619076,AutoNation Toyota Buena Park,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,2777.0,32967.0,Port to dealer,False,,4T1G31AK0PU619112,AutoNation Toyota Buena Park,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,1995.0,32185.0,Factory to port,True,Available,4T1G31AK0PU619286,Toyota of Killeen,TX
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,False,Available,4T1G31AK0PU619370,Gene Messer Toyota,TX
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1G31AK0PU619370,Gene Messer Toyota,TX
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK0PU619403,Toyota Walnut Creek,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK0PU619658,Toyota Town,CA
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,3401.0,33591.0,Port to dealer,False,,4T1G31AK0PU619742,AutoNation Toyota Cerritos,CA
+2023,Camry SE Hybrid,Ice Cap,FWD,30190,2656.0,32846.0,Port to dealer,False,,4T1G31AK0PU619742,AutoNation Toyota Cerritos,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK0PU619756,Claremont Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK0PU619787,Toyota of Escondido,CA
 2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,2273.0,33663.0,Factory to port,False,,4T1G31AK0RU32A002,AutoNation Toyota Hayward,CA
@@ -598,8 +605,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK0RU33B355,City Toyota,CA
 2024,Camry SE Hybrid,Celestial Silver Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK0RU33C893,Team Toyota of Princeton,NJ
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,2273.0,32663.0,Factory to port,False,,4T1G31AK0RU33D851,AutoNation Toyota Hayward,CA
+2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,At dealer,False,,4T1G31AK1PU057527,Hendrick Toyota Merriam,KS
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK1PU058452,Perry Motors Toyota,CA
-2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,Port to dealer,True,DealerHold,4T1G31AK1PU058788,Sloane Toyota of Philadelphia,PA
+2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,At dealer,True,DealerHold,4T1G31AK1PU058788,Sloane Toyota of Philadelphia,PA
 2023,Camry SE Hybrid,Supersonic Red,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK1PU058872,Temecula Valley Toyota,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1G31AK1PU059004,Jim Coleman Toyota,MD
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,True,,4T1G31AK1PU30A631,Charles Toyota,CT
@@ -611,7 +619,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,3995.0,34185.0,At dealer,False,Available,4T1G31AK1PU617627,Bryan College Station Toyota,TX
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK1PU618244,Fremont Toyota of Sheridan,WY
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,Available,4T1G31AK1PU618423,Doxon Toyota,WA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK1PU618485,Toyota World of Clinton,NJ
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,2082.0,32272.0,At dealer,False,Available,4T1G31AK1PU618485,Toyota World of Clinton,NJ
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK1PU619104,City Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK1PU619135,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK1PU619295,Bernardi Toyota,MA
@@ -621,6 +629,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK1PU619670,DCH Brunswick Toyota,NJ
 2024,Camry SE Hybrid,Ice Edge,FWD,30390,2273.0,32663.0,Factory to port,False,,4T1G31AK1RU33B901,AutoNation Toyota Hayward,CA
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,True,DealerHold,4T1G31AK1RU33C885,South Bay Toyota,CA
+2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,1274.0,31664.0,Factory to port,False,,4T1G31AK1RU34F393,Tom Wood Toyota,IN
 2022,Camry SE Hybrid,Celestial Silver Metallic,FWD,29515,0.0,29515.0,Factory to port,False,Available,4T1G31AK2NU594064,Camelback Toyota,AZ
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1G31AK2PU057942,Toyota of Lake City,WA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1G31AK2PU059027,Damian Lillard Toyota,OR
@@ -633,7 +642,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK2PU618253,Toyota of San Bernardino,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK2PU618415,Toyota of Glendora,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK2PU618754,Envision Toyota of West Covina,CA
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK2PU618995,Right Toyota,AZ
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK2PU619273,Hansel Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,5112.0,35302.0,Port to dealer,False,,4T1G31AK2PU619323,Norm Reeves Toyota San Diego,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,,4T1G31AK2PU619533,One Toyota of Oakland,CA
@@ -641,7 +649,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK2PU619581,Hansel Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK2PU619614,Toyota of Huntington Beach,CA
 2024,Camry SE Hybrid,Cavalry Blue,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK2RU32B393,Santa Margarita Toyota,CA
+2024,Camry SE Hybrid,Celestial Silver Metallic,FWD,30390,2295.0,32685.0,Factory to port,False,,4T1G31AK2RU32C270,Desert Toyota of Tucson,AZ
 2024,Camry SE Hybrid,Supersonic Red,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK2RU33F665,City Toyota,CA
+2024,Camry SE Hybrid,Midnight Black Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK2RU35E961,Elgin Toyota,IL
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,True,,4T1G31AK3PU056492,Toyota of Des Moines,IA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,Available,4T1G31AK3PU057223,Advantage Toyota,WV
 2023,Camry SE Hybrid,Supersonic Red,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK3PU058260,Olathe Toyota,KS
@@ -657,15 +667,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Factory to port,True,DealerHold,4T1G31AK3PU31D445,Modesto Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Factory to port,True,,4T1G31AK3PU614261,Hanover Toyota,PA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK3PU614406,Down East Toyota,ME
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK3PU618052,Toyota of Manhattan,NY
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,True,DealerHold,4T1G31AK3PU618911,Toyota of Mt. Pleasant,TX
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK3PU618973,Dowling Toyota of Litchfield,CT
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK3PU619024,Tracy Toyota,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK3PU619055,Toyota of Vallejo,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK3PU619055,Toyota of Vallejo,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK3PU619122,AutoNation Toyota Arapahoe,CO
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK3PU619184,Camelback Toyota,AZ
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK3PU619203,Advantage Toyota,WV
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK3PU619279,Big Two Toyota of Chandler,AZ
+2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,1387.0,31577.0,Factory to port,False,Available,4T1G31AK3PU619508,Longo Toyota of Prosper,TX
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,3995.0,34185.0,Port to dealer,True,DealerHold,4T1G31AK3PU619539,South Bay Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,3490.0,33680.0,Factory to port,False,DealerHold,4T1G31AK3PU619587,Fred Haas Toyota World,TX
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK3PU619640,Thompson Toyota,PA
@@ -690,23 +700,21 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK4PU618741,Toyota of Downtown LA,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK4PU618772,Tracy Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK4PU618979,Lithia Toyota of Redding,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK4PU618996,Hillside Toyota,NY
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,,4T1G31AK4PU619100,San Francisco Toyota,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK4PU619288,McGeorge Toyota,VA
+2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,True,,4T1G31AK4PU619100,San Francisco Toyota,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,True,Available,4T1G31AK4PU619288,McGeorge Toyota,VA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK4PU619372,Tustin Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK4PU619422,I-10 Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK4PU619517,Hansel Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1G31AK4PU619727,North Bakersfield Toyota,CA
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,1995.0,32385.0,Factory to port,False,,4T1G31AK4RU32B315,Danville Toyota,VA
 2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,2273.0,33663.0,Factory to port,True,DealerHold,4T1G31AK4RU32C416,AutoNation Toyota Hayward,CA
-2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,True,,4T1G31AK4RU32D730,Toyota Carlsbad,CA
+2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,True,DealerHold,4T1G31AK4RU32D730,Toyota Carlsbad,CA
 2024,Camry SE Hybrid,Supersonic Red,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK4RU32H017,Concord Toyota,CA
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK4RU33D397,Santa Margarita Toyota,CA
 2024,Camry SE Hybrid,Supersonic Red,FWD,30390,1390.0,31780.0,Factory to port,False,,4T1G31AK4RU33D934,Toyota Chula Vista,CA
 2024,Camry SE Hybrid,Celestial Silver Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK4RU33F750,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Ice Edge,FWD,29890,0.0,29890.0,Port to dealer,False,Available,4T1G31AK5PU054064,Centennial Toyota,NV
 2023,Camry SE Hybrid,Supersonic Red,FWD,30190,798.0,30988.0,Port to dealer,False,DealerHold,4T1G31AK5PU058311,Toyota of Tacoma,WA
-2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1G31AK5PU058910,Folsom Lake Toyota,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Factory to port,False,Available,4T1G31AK5PU30A423,Toyota of Hackensack,NJ
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,2995.0,33185.0,Factory to port,False,DealerHold,4T1G31AK5PU30B555,Paul Miller Toyota of West Caldwell,NJ
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,True,DealerHold,4T1G31AK5PU30C527,AutoNation Toyota Libertyville,IL
@@ -722,6 +730,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK5PU618361,Limbaugh Toyota,AL
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK5PU618697,I-10 Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK5PU618988,Victory Toyota of San Bruno,CA
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,7696.0,37886.0,Factory to port,True,DealerHold,4T1G31AK5PU619381,Alamo Toyota,TX
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK5PU619395,Temecula Valley Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK5PU619560,Bill Wright Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK5PU619638,Marysville Toyota,WA
@@ -729,10 +738,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry SE Hybrid,Celestial Silver Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK5RU32E952,"Glen Motors, Inc.",NJ
 2024,Camry SE Hybrid,Midnight Black Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK5RU33E106,Team Toyota of Glen Mills,PA
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK6PU057779,Toyota of Southern Maryland,MD
-2023,Camry SE Hybrid,Supersonic Red,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK6PU058544,Phil Meador Toyota,ID
 2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,Port to dealer,True,DealerHold,4T1G31AK6PU058785,Rohrich Toyota,PA
 2023,Camry SE Hybrid,Cavalry Blue,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK6PU059032,Camelback Toyota,AZ
-2023,Camry SE Hybrid,Cavalry Blue,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK6PU059130,Toyota of Manhattan,NY
+2023,Camry SE Hybrid,Cavalry Blue,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK6PU059130,Toyota of Manhattan,NY
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1G31AK6PU059533,Del Toyota,PA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,3265.0,33455.0,Factory to port,False,,4T1G31AK6PU30A432,Toyota of Bedford,OH
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,False,,4T1G31AK6PU30B547,Hartford Toyota,CT
@@ -740,23 +748,26 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Factory to port,False,,4T1G31AK6PU31A555,DCH Brunswick Toyota,NJ
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Factory to port,False,DealerHold,4T1G31AK6PU31B124,Capitol Toyota of Salem,OR
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,1190.0,32380.0,Factory to port,False,,4T1G31AK6PU31C791,Simi Valley Toyota,CA
-2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,3401.0,33591.0,Factory to port,False,Available,4T1G31AK6PU614383,AutoNation Toyota Cerritos,CA
+2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,2656.0,32846.0,Factory to port,False,Available,4T1G31AK6PU614383,AutoNation Toyota Cerritos,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK6PU616229,Smithtown Toyota,NY
+2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,2998.0,33188.0,At dealer,False,Available,4T1G31AK6PU617817,San Marcos Toyota,TX
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK6PU618448,Heartland Toyota,WA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK6PU618465,Toyota of Glendale,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK6PU618501,New Country Toyota of Westport,CT
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK6PU618529,Curry Toyota,NY
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK6PU618790,Toyota Town,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK6PU618904,Toyota Place,CA
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK6PU619082,Toyota of Glendale,CA
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK6PU619082,Toyota of Glendale,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1G31AK6PU619129,Santa Margarita Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK6PU619518,Fallon Ford Toyota,NV
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK6PU619566,Westchester Toyota,NY
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1G31AK6PU619597,Toyota of Poway,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK6PU619745,Earnhardt Toyota,AZ
+2024,Camry SE Hybrid,Ice Edge,FWD,30390,1695.0,32085.0,Factory to port,False,,4T1G31AK6RU32E961,Anderson Toyota,AZ
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK6RU32G905,"Gale Toyota, Inc.",CT
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,1390.0,31780.0,Factory to port,False,,4T1G31AK6RU33B456,Toyota Chula Vista,CA
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,2273.0,32663.0,Factory to port,False,,4T1G31AK6RU33F751,AutoNation Toyota Hayward,CA
+2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK6RU35C579,Stevens Creek Toyota,CA
+2022,Camry SE Hybrid,Celestial Silver Metallic,FWD,29015,0.0,29015.0,At dealer,False,Available,4T1G31AK7NU572450,Kendall Toyota,FL
 2023,Camry SE Hybrid,Cavalry Blue,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK7PU057922,Toyota City,NY
 2023,Camry SE Hybrid,Cavalry Blue,FWD,30190,5580.0,35770.0,Port to dealer,False,,4T1G31AK7PU058763,Kearny Mesa Toyota,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1G31AK7PU058911,Younger Toyota,MD
@@ -773,11 +784,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,29890,0.0,29890.0,Factory to port,False,Available,4T1G31AK7PU613047,Oroville Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK7PU614862,Beaverton Toyota,OR
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK7PU617373,Culver City Toyota,CA
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,3995.0,34185.0,At dealer,False,DealerHold,4T1G31AK7PU617521,Huntsville Toyota,TX
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK7PU618118,Toyota of Lake City,WA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK7PU618118,Toyota of Lake City,WA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK7PU618345,Curry Toyota,NY
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,1390.0,31580.0,At dealer,False,Available,4T1G31AK7PU618412,Toyota Chula Vista,CA
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK7PU618460,Toyota City,NY
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK7PU618460,Toyota City,NY
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK7PU618832,Toyota of Puyallup,WA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK7PU618927,Romeo Toyota of Glens Falls,NY
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,2777.0,32967.0,Port to dealer,False,,4T1G31AK7PU619222,AutoNation Toyota Buena Park,CA
@@ -786,9 +796,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK7PU619673,Toyota of Hollywood,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK7PU619771,Kinderhook Toyota,NY
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1G31AK7RU32G329,"Gale Toyota, Inc.",CT
-2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1G31AK8PU058013,Centennial Toyota,NV
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1G31AK8PU059081,Elk Grove Toyota,CA
-2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1G31AK8PU059419,Toyota Carlsbad,CA
+2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK8PU059419,Toyota Carlsbad,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,True,DealerHold,4T1G31AK8PU059517,Freeman Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,False,,4T1G31AK8PU30B775,Toyota of Santa Maria,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,2987.0,33177.0,Factory to port,False,,4T1G31AK8PU30B839,South Coast Toyota,CA
@@ -798,7 +807,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK8PU618600,Thousand Oaks Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,1995.0,32185.0,Port to dealer,True,DealerHold,4T1G31AK8PU619276,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK8PU619293,Bill Dube Toyota,NH
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK8PU619407,DCH Toyota of Oxnard,CA
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1G31AK8PU619407,DCH Toyota of Oxnard,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK8PU619469,Colonial Toyota,CT
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK8PU619553,Claremont Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,5112.0,35302.0,Port to dealer,False,,4T1G31AK8PU619598,Norm Reeves Toyota San Diego,CA
@@ -813,11 +822,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,1190.0,31380.0,Factory to port,False,,4T1G31AK9PU31C705,Simi Valley Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK9PU616676,Allegheny Toyota,PA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK9PU618105,Kinderhook Toyota,NY
-2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK9PU618265,Prestige Toyota,NY
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,1995.0,32185.0,Port to dealer,False,DealerHold,4T1G31AK9PU618489,Toyota Carlsbad,CA
+2023,Camry SE Hybrid,Ice Cap,FWD,30190,1995.0,32185.0,Port to dealer,False,Available,4T1G31AK9PU618489,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AK9PU618945,C F Schwartz Toyota,DE
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AK9PU618959,Toyota of Escondido,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1G31AK9PU619108,Toyota Carlsbad,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1G31AK9PU618959,Toyota of Escondido,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,True,DealerHold,4T1G31AK9PU619108,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AK9PU619285,Thousand Oaks Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,5580.0,35770.0,Port to dealer,True,DealerHold,4T1G31AK9PU619531,Kearny Mesa Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AK9PU619545,Haley Toyota of Richmond,VA
@@ -830,7 +838,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,4966.0,35356.0,Factory to port,False,,4T1G31AK9RU33D847,Toyota of Turnersville,NJ
 2023,Camry SE Hybrid,Supersonic Red,FWD,29615,0.0,29615.0,Factory to port,False,DealerHold,4T1G31AKXPU049815,Toyota of Downtown LA,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,,4T1G31AKXPU056800,Jerry's Toyota,MD
-2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1G31AKXPU059275,Hertrich Toyota,DE
+2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AKXPU059275,Hertrich Toyota,DE
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1G31AKXPU059325,Toyota of Escondido,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1G31AKXPU059437,Koons Tysons Toyota,VA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1G31AKXPU059535,First Team Toyota,VA
@@ -845,7 +853,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AKXPU618842,Thousand Oaks Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AKXPU618937,Toyota Town,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AKXPU619053,Capistrano Valley Toyota,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1G31AKXPU619084,Tracy Toyota,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1G31AKXPU619084,Tracy Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AKXPU619182,Toyota Place,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,True,DealerHold,4T1G31AKXPU619375,Toyota of Grand Rapids,MI
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1G31AKXPU619389,First Team Toyota,VA
@@ -861,7 +869,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1H31AK1PU30A522,Stephen Wade Toyota,UT
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Factory to port,False,,4T1H31AK1PU31C895,Magnussen's Toyota of Palo Alto,CA
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK1PU619382,Serra Toyota of Saginaw,MI
-2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK2PU058206,Toyota of Seattle,WA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK2PU058657,Pinehurst Toyota,NC
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Factory to port,False,,4T1H31AK2PU31A444,Maita's Toyota of Sacramento,CA
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AK3PU617827,Findlay Toyota,NV
@@ -871,7 +878,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,At dealer,True,Available,4T1H31AK5PU058006,Doxon Toyota,WA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AK5PU058586,Legends Toyota,KS
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AK5PU619014,Clint Bowyer Toyota,KS
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,,4T1H31AK5PU619479,Right Toyota,AZ
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AK5PU619479,Right Toyota,AZ
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK5PU619675,Toyota of Greensboro,NC
 2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,False,,4T1H31AK6PU057883,Lithia Toyota of Billings,MT
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Factory to port,False,,4T1H31AK6PU059603,Miracle Toyota,FL
@@ -883,12 +890,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK8PU618164,Rogers Toyota,ID
 2024,Camry LE Hybrid,Predawn Gray Mica,FWD,28855,0.0,28855.0,Factory to port,True,,4T1H31AK8RU33D567,San Francisco Toyota,CA
 2023,Camry LE Hybrid,Supersonic Red,FWD,28655,0.0,28655.0,Port to dealer,True,,4T1H31AK9PU057926,Wilson Toyota,IA
-2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK9PU058610,Maita's Toyota of Sacramento,CA
+2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,At dealer,False,Available,4T1H31AK9PU058610,Hanlees Hilltop Toyota,CA
 2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,Port to dealer,True,DealerHold,4T1H31AK9PU059286,Earnhardt Toyota,AZ
-2023,Camry LE Hybrid,Predawn Gray Mica,FWD,28655,0.0,28655.0,At dealer,True,Available,4T1H31AK9PU617475,Baxter Toyota of La Vista,NE
 2023,Camry LE Hybrid,Midnight Black Metallic,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AK9PU618447,Olathe Toyota,KS
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AK9PU619369,Findlay Toyota,NV
-2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,Port to dealer,True,,4T1H31AKXPU057997,Toyota of Des Moines,IA
+2023,Camry LE Hybrid,Celestial Silver Metallic,FWD,28655,0.0,28655.0,At dealer,True,,4T1H31AKXPU057997,Toyota of Des Moines,IA
 2023,Camry LE Hybrid,Ice Edge,FWD,28655,0.0,28655.0,Port to dealer,False,DealerHold,4T1H31AKXPU058812,Tony Divino Toyota,UT
 2023,Camry LE Hybrid,Ice Cap,FWD,28655,2098.0,30753.0,Factory to port,False,,4T1H31AKXPU30A499,Toyota of Surprise,AZ
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK0PU057867,Lewis Toyota of Garden City,KS
@@ -902,7 +908,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK0PU058775,Lombard Toyota,IL
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK0PU058839,Maita's Toyota of Sacramento,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK0PU058856,Sheehy Toyota of Laurel,MD
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK0PU058954,Victory Toyota of San Bruno,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,4173.0,38268.0,Port to dealer,True,DealerHold,4T1K31AK0PU058985,AutoNation Toyota Irvine,CA
+2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,2125.0,36220.0,Factory to port,True,Available,4T1K31AK0PU059067,Principle Toyota of Hernando,MS
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK0PU059229,City Toyota,CA
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK0PU059263,Lithia Toyota of Klamath Falls,OR
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK0PU059313,Berlin City Toyota of Portland,ME
@@ -936,20 +944,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,True,,4T1K31AK1PU059160,Toyota Town,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK1PU059210,Toyota of Orange,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK1PU059269,Toyota Santa Monica,CA
-2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,2595.0,36690.0,Factory to port,False,Available,4T1K31AK1PU059272,South Toyota,TX
+2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,2595.0,36690.0,Port to dealer,False,Available,4T1K31AK1PU059272,South Toyota,TX
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK1PU059434,North Bakersfield Toyota,CA
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK1PU059479,Toyota of Melbourne,FL
+2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK1PU059479,Toyota of Melbourne,FL
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK1PU059515,Toyota of Selma,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,2273.0,36368.0,Factory to port,False,,4T1K31AK1PU28B394,AutoNation Toyota Hayward,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,399.0,34494.0,Factory to port,False,DealerHold,4T1K31AK1PU30A476,Bommarito Toyota,MO
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,3493.0,37588.0,At dealer,False,Available,4T1K31AK1PU618500,Keating Toyota,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,395.0,34490.0,Port to dealer,True,DealerHold,4T1K31AK1PU618545,Toyota of Olympia,WA
-2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK1PU618562,Victory Toyota,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK1PU618660,Central Florida Toyota,FL
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK1PU618738,Toyota of Rockwall,TX
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK1PU618786,Shottenkirk Toyota Weatherford,TX
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK1PU618870,I-5 Toyota,WA
-2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,True,Available,4T1K31AK1PU618917,Don McGill Toyota of Katy,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK1PU619050,Oxford Toyota,MS
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK1PU619078,Toyota Sunnyvale,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK1PU619243,Ventura Toyota,CA
@@ -962,9 +968,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK1RU33F604,City Toyota,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK2PU057031,Toyota of Huntington Beach,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK2PU057742,Marysville Toyota,WA
+2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK2PU058017,Toyota of North Hollywood,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU058406,Sierra Toyota,AZ
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK2PU058471,City Toyota,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU058521,Toyota of Riverside,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU058566,Toyota of Downtown LA,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK2PU058602,Toyota of North Hollywood,CA
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU058681,Toyota Town,CA
@@ -980,31 +986,32 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK2PU059474,Toyota of Poway,CA
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK2PU059507,Toyota of Fort Walton Beach,FL
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK2PU059538,Toyota of San Bernardino,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK2PU059541,Sam Leman Toyota Bloomington,IL
+2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU059541,Sam Leman Toyota Bloomington,IL
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,2777.0,36872.0,Factory to port,False,,4T1K31AK2PU31B177,AutoNation Toyota Buena Park,CA
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK2PU31C829,Toyota of Denton,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,1387.0,35482.0,Factory to port,False,Available,4T1K31AK2PU31C832,Longo Toyota of Prosper,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,33520,0.0,33520.0,Factory to port,False,DealerHold,4T1K31AK2PU603147,Right Toyota,AZ
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU617470,Concord Toyota,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,2488.0,36583.0,At dealer,False,Available,4T1K31AK2PU618862,Toyota of Plano,TX
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU618876,San Francisco Toyota,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK2PU619333,Toyota of Clermont,FL
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,1392.0,35487.0,Factory to port,False,Available,4T1K31AK2PU619459,Toyota of Irving,TX
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK2PU619588,Modesto Toyota,CA
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,1392.0,35487.0,At dealer,False,Available,4T1K31AK2PU619459,Toyota of Irving,TX
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK2PU619588,Modesto Toyota,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK2PU619591,Freeman Toyota,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK2RU32A805,Stephen Wade Toyota,UT
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,True,,4T1K31AK2RU32B615,One Toyota of Oakland,CA
 2024,Camry XSE Hybrid,Midnight Black Metallic,FWD,34295,1278.0,35573.0,Factory to port,False,,4T1K31AK2RU32D395,AutoNation Toyota Buena Park,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK2RU32D820,Walker Toyota,OH
 2024,Camry XSE Hybrid,Cavalry Blue,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK2RU32D865,Orland Toyota,IL
+2024,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34295,2295.0,36590.0,Factory to port,False,,4T1K31AK2RU32G121,Desert Toyota of Tucson,AZ
 2024,Camry XSE Hybrid,Ice Edge,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK2RU32G295,Tansky Sawmill Toyota,OH
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,2273.0,36568.0,Factory to port,False,,4T1K31AK2RU33A881,AutoNation Toyota Hayward,CA
 2024,Camry XSE Hybrid,Predawn Gray Mica,FWD,34295,1390.0,35685.0,Factory to port,False,,4T1K31AK2RU33F353,Toyota Chula Vista,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK2RU33F367,Dublin Toyota,CA
-2024,Camry XSE Hybrid,Ice Edge,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK2RU33F594,Marion Toyota,IL
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK3PU058009,DeLuca Toyota,FL
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK3PU058396,Toyota of Puyallup,WA
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK3PU058494,Heartland Toyota,WA
-2023,Camry XSE Hybrid,Ice Edge,FWD,34095,1999.0,36094.0,At dealer,False,Available,4T1K31AK3PU058611,Toyota of Warren,OH
+2023,Camry XSE Hybrid,Ice Edge,FWD,34095,1999.0,36094.0,At dealer,False,DealerHold,4T1K31AK3PU058611,Toyota of Warren,OH
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK3PU058673,Toyota of Huntington Beach,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK3PU058740,Toyota of Huntington Beach,CA
 2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK3PU058754,Griffin Toyota,NC
@@ -1012,7 +1019,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK3PU059161,Toyota of Orange,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK3PU059175,Elk Grove Toyota,CA
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK3PU059189,Doc's Toyota,MS
-2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK3PU059192,Damian Lillard Toyota,OR
+2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK3PU059192,Damian Lillard Toyota,OR
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK3PU059290,Toyota of Orange,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK3PU059368,Steet Toyota of Johnstown-Gloversville,NY
 2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,Factory to port,True,DealerHold,4T1K31AK3PU059502,Gulf Coast Toyota,TX
@@ -1023,12 +1030,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Factory to port,True,DealerHold,4T1K31AK3PU31B172,Labadie Toyota,MI
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,1695.0,35790.0,Factory to port,False,,4T1K31AK3PU31C502,Findlay Toyota Prescott,AZ
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK3PU31C855,Heyward Allen Toyota,GA
-2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK3PU616179,Toyota of Hollywood,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,1295.0,35390.0,At dealer,False,Available,4T1K31AK3PU618269,Auburn Toyota,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK3PU618305,"Fort Dodge Ford, Lincoln, Toyota",IA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,6295.0,40390.0,At dealer,False,Available,4T1K31AK3PU618627,Lone Star Toyota of Lewisville,TX
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK3PU618742,Serra Toyota,AL
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK3PU618837,Stephen Wade Toyota,UT
+2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK3PU619101,Cecil Atkission Toyota,TX
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK3PU619258,Toyota of Glendale,CA
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK3PU619373,Toyota of Poway,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK3PU619387,Toyota Santa Monica,CA
@@ -1044,13 +1051,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK4PU057743,Philpott Toyota,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK4PU057953,Toyota of Downtown LA,CA
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK4PU058052,Ammaar's Toyota Vacaville,CA
-2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK4PU058293,Toyota on Edens,IL
-2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK4PU058343,Cabe Toyota Long Beach,CA
+2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK4PU058343,Cabe Toyota Long Beach,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK4PU058357,Basil Toyota,NY
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK4PU058407,Quality Toyota of Independence,KS
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,1295.0,35390.0,At dealer,False,,4T1K31AK4PU058441,Jimmy Vasser Toyota,CA
 2023,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK4PU058553,Temecula Valley Toyota,CA
-2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK4PU058715,Thompson's Toyota of Placerville,CA
 2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK4PU058746,Toyota of Puyallup,WA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,4173.0,38268.0,Port to dealer,True,DealerHold,4T1K31AK4PU058813,AutoNation Toyota Irvine,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK4PU058908,Royal Moore Toyota,OR
@@ -1075,11 +1080,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK4PU619320,Gerald Toyota of Matteson,IL
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK4PU619611,Bill Wright Toyota,CA
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK4PU619737,Capitol Toyota of Salem,OR
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,399.0,34494.0,Factory to port,False,Available,4T1K31AK4PU619754,Toyota of Paris,TX
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,True,DealerHold,4T1K31AK4PU619754,Bob Howard Toyota,OK
 2024,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34295,0.0,34295.0,Factory to port,False,Available,4T1K31AK4RU32E001,Joseph Airport Toyota,OH
 2024,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK4RU32F679,Lia Toyota of Northampton,MA
 2024,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,True,DealerHold,4T1K31AK4RU32G105,Rohrich Toyota,PA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,0.0,34295.0,Factory to port,True,,4T1K31AK4RU33F287,One Toyota of Oakland,CA
+2024,Camry XSE Hybrid,Celestial Silver Metallic with Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK4RU35E521,Magnussen's Toyota of Palo Alto,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK5PU057329,David Wilson's Toyota of Las Vegas,NV
 2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK5PU058285,Stephen Toyota,CT
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK5PU058464,Hansel Toyota,CA
@@ -1088,14 +1094,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK5PU058576,Rogers Toyota of Hermiston,OR
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,2190.0,36285.0,At dealer,False,,4T1K31AK5PU058710,Madera Toyota,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK5PU058769,Toyota of Orange,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK5PU058853,Newburgh Toyota,NY
+2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK5PU058853,Newburgh Toyota,NY
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK5PU058867,Ammaar's Toyota Vacaville,CA
-2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,2495.0,36590.0,At dealer,False,Available,4T1K31AK5PU058903,Palestine Toyota,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK5PU058948,Temecula Valley Toyota,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,2190.0,36285.0,Port to dealer,False,,4T1K31AK5PU059002,Madera Toyota,CA
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,2190.0,36285.0,At dealer,False,,4T1K31AK5PU059002,Madera Toyota,CA
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK5PU059159,Capitol Toyota of Salem,OR
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK5PU059226,Fernelius Toyota,MI
-2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK5PU059243,Toyota of Orange,CA
+2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK5PU059243,Toyota of Orange,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK5PU059422,Downtown Toyota of Oakland,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,True,,4T1K31AK5PU059470,Fordham Toyota,NY
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK5PU059498,Coughlin Toyota,OH
@@ -1109,11 +1114,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK5PU618919,San Francisco Toyota,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK5PU618953,Rogers Toyota of Hermiston,OR
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK5PU618984,Bev Smith Toyota,FL
-2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK5PU619021,City Toyota,CA
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK5PU619178,Toyota of Escondido,CA
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,1295.0,35390.0,Port to dealer,False,,4T1K31AK5PU619181,Jimmy Vasser Toyota,CA
+2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK5PU619021,City Toyota,CA
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK5PU619178,Toyota of Escondido,CA
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,1295.0,35390.0,At dealer,False,,4T1K31AK5PU619181,Jimmy Vasser Toyota,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK5PU619312,Earnhardt Toyota,AZ
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK5PU619472,Supreme Toyota of Hammond,LA
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK5PU619634,Toyota of Plano,TX
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK5PU619746,Toyota of Glendora,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK5PU619763,AutoNation Toyota Weston,FL
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,1278.0,35573.0,Factory to port,False,,4T1K31AK5RU32B365,AutoNation Toyota Buena Park,CA
@@ -1125,6 +1131,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XSE Hybrid,Predawn Gray Mica,FWD,34295,1278.0,35573.0,Factory to port,False,,4T1K31AK5RU33A874,AutoNation Toyota Buena Park,CA
 2024,Camry XSE Hybrid,Supersonic Red,FWD,34295,1098.0,35393.0,Factory to port,False,,4T1K31AK5RU33A891,Toyota of Terre Haute,IN
 2024,Camry XSE Hybrid,Ice Edge,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK5RU33B314,Dublin Toyota,CA
+2024,Camry XSE Hybrid,Ice Edge,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK5RU33D130,Stevens Creek Toyota,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,2585.0,36880.0,Factory to port,True,,4T1K31AK5RU33D144,Toyota of Redlands,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,True,,4T1K31AK5RU33E178,One Toyota of Oakland,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,1899.0,36194.0,Factory to port,False,,4T1K31AK5RU33F315,Frank Fletcher Toyota,MO
@@ -1133,7 +1140,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK6PU058411,Toyota of Poway,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK6PU058697,Toyota of Huntington Beach,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK6PU059039,Toyota San Luis Obispo,CA
-2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK6PU059056,Maita's Toyota of Sacramento,CA
+2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK6PU059056,Maita's Toyota of Sacramento,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK6PU059073,Billion Toyota of Clinton,IA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK6PU059087,Mojave Toyota of Barstow,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK6PU059252,Mossy Toyota,CA
@@ -1144,12 +1151,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK6PU30B624,AutoNation Toyota Winter Park,FL
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Factory to port,True,,4T1K31AK6PU31C428,Johnson City Toyota,TN
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK6PU617732,Motor Inn Toyota of Carroll,IA
-2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK6PU618413,Thousand Oaks Toyota,CA
-2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK6PU618525,Marshall Dry Ridge Toyota,KY
+2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK6PU618413,Thousand Oaks Toyota,CA
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,1875.0,35970.0,Factory to port,True,Available,4T1K31AK6PU618699,Red McCombs Toyota,TX
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK6PU618802,Future Toyota of Yuba City,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,4488.0,38583.0,Port to dealer,False,,4T1K31AK6PU618881,Toyota of Kirkland,WA
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK6PU619058,Toyota of North Hollywood,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,1999.0,36094.0,Port to dealer,False,Available,4T1K31AK6PU619190,Karl Malone Toyota of Ruston,LA
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,1999.0,36094.0,At dealer,False,Available,4T1K31AK6PU619190,Karl Malone Toyota of Ruston,LA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK6PU619321,Sullivan Brothers Toyota,MA
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,1495.0,35590.0,Factory to port,False,Available,4T1K31AK6PU619402,Bohn Toyota,LA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK6PU619495,South Bay Toyota,CA
@@ -1159,37 +1166,34 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XSE Hybrid,Midnight Black Metallic,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK6RU33B080,"Glen Motors, Inc.",NJ
 2024,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK6RU33E058,City Toyota,CA
 2024,Camry XSE Hybrid,Midnight Black Metallic,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK6RU33F596,Riverhead Toyota,NY
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK7PU055856,Yokem Toyota,LA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK7PU057008,Quality Toyota,MN
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK7PU057929,Toyota of Downtown LA,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK7PU058319,Toyota of Santa Maria,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK7PU058434,Envision Toyota of West Covina,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,4173.0,38268.0,At dealer,True,DealerHold,4T1K31AK7PU058644,AutoNation Toyota Irvine,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK7PU058661,Envision Toyota of West Covina,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK7PU058773,Thousand Oaks Toyota,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK7PU058966,Envision Toyota of West Covina,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK7PU059115,West Coast Toyota of Long Beach,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,True,,4T1K31AK7PU059261,Avondale Toyota,AZ
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Factory to port,True,DealerHold,4T1K31AK7PU059387,Keating Toyota,TX
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK7PU059485,Advantage Toyota,WV
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK7PU059518,"Molle Toyota, Inc.",MO
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK7PU059597,Inver Grove Toyota,MN
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,False,,4T1K31AK7PU30B759,Toyota of Poway,CA
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Factory to port,False,,4T1K31AK7PU31A512,Toyota of Poway,CA
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK7PU617321,Peter Boulware Toyota,FL
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK7PU617464,Downtown Toyota of Oakland,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,2290.0,36385.0,At dealer,False,Available,4T1K31AK7PU618467,Toyota of Clovis,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,1695.0,35790.0,At dealer,False,DealerHold,4T1K31AK7PU618744,Findlay Toyota Prescott,AZ
-2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,1295.0,35390.0,At dealer,False,,4T1K31AK7PU618808,Jimmy Vasser Toyota,CA
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,999.0,35094.0,Factory to port,False,Available,4T1K31AK7PU619361,Lithia Toyota of Abilene,TX
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK7PU619442,Trotter Toyota,AR
+2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,2895.0,36990.0,Factory to port,True,Available,4T1K31AK7PU619277,Jim Norton Toyota,OK
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,999.0,35094.0,Port to dealer,False,Available,4T1K31AK7PU619361,Lithia Toyota of Abilene,TX
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK7PU619442,Trotter Toyota,AR
 2024,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK7RU32D909,Copeland Toyota,MA
 2024,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK7RU32F563,One Toyota of Oakland,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,0.0,34295.0,Factory to port,False,DealerHold,4T1K31AK7RU32G115,"Molle Toyota, Inc.",MO
+2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK7RU32G244,Stevens Creek Toyota,CA
 2024,Camry XSE Hybrid,Midnight Black Metallic,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK7RU33B380,Toyota of Bourbonnais,IL
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,2273.0,36568.0,Factory to port,True,,4T1K31AK7RU33E294,AutoNation Toyota Hayward,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,True,,4T1K31AK7RU33F476,One Toyota of Oakland,CA
 2024,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK7RU33F557,City Toyota,CA
+2024,Camry XSE Hybrid,Wind Chill Pearl with Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK7RU35A107,Toyota of Muncie,IN
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AK8PU056482,Stevens Creek Toyota,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,1995.0,36090.0,Port to dealer,True,DealerHold,4T1K31AK8PU056868,Toyota Carlsbad,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK8PU057034,Penske Toyota,CA
@@ -1203,6 +1207,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,True,Available,4T1K31AK8PU058992,Red River Toyota,AR
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,1995.0,36090.0,Port to dealer,True,DealerHold,4T1K31AK8PU059074,Toyota Carlsbad,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,2987.0,37082.0,Port to dealer,False,Available,4T1K31AK8PU059205,South Coast Toyota,CA
+2023,Camry XSE Hybrid,Ice Edge,FWD,34095,499.0,34594.0,Factory to port,True,DealerHold,4T1K31AK8PU059219,Caldwell Toyota,AR
+2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,1098.0,35193.0,Factory to port,True,Available,4T1K31AK8PU059284,Toyota of Cedar Park,TX
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK8PU059351,Santa Margarita Toyota,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK8PU059379,Toyota of Anaheim,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK8PU059415,Toyota Walnut Creek,CA
@@ -1222,6 +1228,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34295,1390.0,35685.0,Factory to port,False,,4T1K31AK8RU33B064,Toyota Chula Vista,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,True,,4T1K31AK8RU33B629,One Toyota of Oakland,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,Available,4T1K31AK8RU33F468,Lancaster Toyota,PA
+2024,Camry XSE Hybrid,Wind Chill Pearl with Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK8RU34F434,Magnussen's Toyota of Palo Alto,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK9PU056605,Toyota of Southern Maryland,MD
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK9PU057172,Penske Toyota,CA
 2023,Camry XSE Hybrid,Reservoir Blue,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK9PU058080,Titus-Will Toyota,WA
@@ -1229,24 +1236,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,True,,4T1K31AK9PU058516,Toyota of Des Moines,IA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,True,Available,4T1K31AK9PU058614,Findlay Toyota Flagstaff,AZ
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK9PU059049,Green Toyota,IL
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK9PU059083,LaGrange Toyota,GA
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK9PU059097,Sarasota Toyota,FL
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK9PU059178,Mid City Toyota,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK9PU059262,Toyota of San Bernardino,CA
 2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AK9PU059326,Dolan Toyota,NV
 2023,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AK9PU059410,Boch Toyota,MA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK9PU059505,Putnam Toyota,CA
+2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK9PU059536,Superior Toyota,WV
 2023,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK9PU059584,Ira Toyota,MA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,5112.0,39207.0,Factory to port,False,,4T1K31AK9PU30B617,Norm Reeves Toyota San Diego,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,False,,4T1K31AK9PU30C573,Toyota of Santa Maria,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Factory to port,False,,4T1K31AK9PU31A754,City Toyota,CA
-2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK9PU616364,Nalley Toyota of Roswell,GA
-2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK9PU617322,Gene Messer Toyota,TX
+2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,True,DealerHold,4T1K31AK9PU617322,Gene Messer Toyota,TX
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK9PU617661,Toyota of Dartmouth,MA
-2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AK9PU618356,Toyota of Downtown LA,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AK9PU618728,Toyota of Selma,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AK9PU619166,Thompson's Toyota of Placerville,CA
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK9PU619264,City Toyota,CA
+2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,True,DealerHold,4T1K31AK9PU619264,City Toyota,CA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AK9PU619328,Hansel Toyota,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,395.0,34490.0,Port to dealer,False,Available,4T1K31AK9PU619524,Toyota 101,CA
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AK9PU619667,Toyota of Santa Maria,CA
@@ -1260,9 +1265,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,1295.0,35590.0,Factory to port,False,,4T1K31AK9RU32F502,Jimmy Vasser Toyota,CA
 2024,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,True,,4T1K31AK9RU33B011,One Toyota of Oakland,CA
 2024,Camry XSE Hybrid,Celestial Silver Metallic with two-tone Midnight Black Metallic roof,FWD,34295,1726.0,36021.0,Factory to port,False,,4T1K31AK9RU33B364,AutoNation Toyota Spokane Valley,WA
+2024,Camry XSE Hybrid,Ice Edge,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AK9RU35E899,Toyota of Merrillville,IN
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AKXPU057701,Santa Cruz Toyota,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AKXPU057827,Manhattan Beach Toyota,CA
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AKXPU058704,Gettel Toyota of Bradenton,FL
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AKXPU058718,Envision Toyota of West Covina,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AKXPU058752,Basil Toyota,NY
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AKXPU058864,Tracy Toyota,CA
@@ -1270,27 +1275,31 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AKXPU058962,Gatorland Toyota,FL
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Port to dealer,False,DealerHold,4T1K31AKXPU059075,Mid City Toyota,CA
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AKXPU059190,Mossy Toyota,CA
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Port to dealer,True,DealerHold,4T1K31AKXPU059206,Sam Leman Toyota Bloomington,IL
+2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,True,DealerHold,4T1K31AKXPU059206,Sam Leman Toyota Bloomington,IL
 2023,Camry XSE Hybrid,Ice Edge,FWD,34095,0.0,34095.0,Port to dealer,False,,4T1K31AKXPU059271,North Bakersfield Toyota,CA
 2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,True,DealerHold,4T1K31AKXPU059299,Kenny Kent Toyota,IN
-2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,Port to dealer,False,Available,4T1K31AKXPU059397,Don Wood Toyota,OH
+2023,Camry XSE Hybrid,Supersonic Red,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AKXPU059352,Country Toyota,TX
+2023,Camry XSE Hybrid,Cavalry Blue,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AKXPU059397,Don Wood Toyota,OH
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,Factory to port,False,,4T1K31AKXPU30A475,Ourisman Chantilly Toyota,VA
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Factory to port,False,,4T1K31AKXPU30A573,Toyota of Poway,CA
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,2791.0,36886.0,Factory to port,False,,4T1K31AKXPU30C579,Billion Toyota,SD
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AKXPU30C601,AutoNation Toyota Mall of Georgia,GA
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AKXPU31B167,Serra Toyota of Decatur,AL
 2023,Camry XSE Hybrid,Midnight Black Metallic,FWD,34095,0.0,34095.0,Factory to port,False,Available,4T1K31AKXPU31C173,Bill Penney Toyota,AL
-2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,True,DealerHold,4T1K31AKXPU617653,Lewis Toyota of Hays,KS
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AKXPU617653,Legends Toyota,KS
 2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,Available,4T1K31AKXPU618088,Capitol Toyota of Salem,OR
 2023,Camry XSE Hybrid,Wind Chill Pearl,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AKXPU618169,Pueblo Toyota,CO
 2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,4488.0,38583.0,At dealer,False,DealerHold,4T1K31AKXPU618365,Toyota of Kirkland,WA
-2023,Camry XSE Hybrid,Predawn Gray Mica,FWD,34095,0.0,34095.0,At dealer,False,DealerHold,4T1K31AKXPU618723,Toyota of Selma,CA
+2023,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34095,0.0,34095.0,At dealer,False,,4T1K31AKXPU619256,Thompson's Toyota of Placerville,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AKXRU32B555,City Toyota,CA
 2024,Camry XSE Hybrid,Wind Chill Pearl,FWD,34295,0.0,34295.0,Factory to port,True,DealerHold,4T1K31AKXRU32F802,Modesto Toyota,CA
 2024,Camry XSE Hybrid,Predawn Gray Mica,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AKXRU33A871,Toyota Carlsbad,CA
+2024,Camry XSE Hybrid,Supersonic Red with two-tone Midnight Black Metallic roof,FWD,34295,0.0,34295.0,Factory to port,False,,4T1K31AKXRU33B616,Stevens Creek Toyota,CA
+2024,Camry XSE Hybrid,Midnight Black Metallic,FWD,34295,798.0,35093.0,Factory to port,False,,4T1K31AKXRU34C969,Newbold Toyota,IL
+2024,Camry XSE Hybrid,Celestial Silver Metallic,FWD,34295,0.0,34295.0,Factory to port,False,DealerHold,4T1K31AKXRU35C238,Smart Toyota,WI
 2023,Camry SE Hybrid,Ice Edge,FWD,29890,0.0,29890.0,Port to dealer,False,DealerHold,4T1S31AK0PU052460,Toyota of San Bernardino,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK0PU057741,Centennial Toyota,NV
-2023,Camry SE Hybrid,Supersonic Red,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK0PU058016,Village Pointe Toyota,NE
+2023,Camry SE Hybrid,Supersonic Red,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK0PU058016,Village Pointe Toyota,NE
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK0PU058386,Dan Hecht Chevrolet/Toyota,IL
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK0PU058615,Toyota San Luis Obispo,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK0PU059392,Fremont Toyota,CA
@@ -1303,11 +1312,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK0PU618567,Round Rock Toyota,TX
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK0PU618780,Boch Toyota,MA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK0PU619458,Toyota of Lake City,WA
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK0PU619556,Toyota of Wooster,OH
+2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK0PU619556,Toyota of Wooster,OH
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK0PU619735,Baxter Toyota of Lincoln,NE
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,1295.0,31685.0,Factory to port,False,,4T1S31AK0RU32B127,Jimmy Vasser Toyota,CA
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK0RU32D721,City Toyota,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK1PU058834,Toyota of Escondido,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK1PU058834,Toyota of Escondido,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK1PU059062,Toyota of Escondido,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK1PU059207,Toyota Santa Monica,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,395.0,30585.0,Port to dealer,False,DealerHold,4T1S31AK1PU059241,Toyota 101,CA
@@ -1318,12 +1327,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,5112.0,35302.0,Factory to port,False,,4T1S31AK1PU31B266,Norm Reeves Toyota San Diego,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Factory to port,False,DealerHold,4T1S31AK1PU31D728,Battlefield Toyota,VA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK1PU616780,Team Toyota,NE
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,True,DealerHold,4T1S31AK1PU619128,Brownsville Toyota,TX
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,True,DealerHold,4T1S31AK1PU619128,Brownsville Toyota,TX
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1S31AK1PU619467,Freeman Toyota,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1S31AK1PU619775,Manhattan Beach Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK2PU057661,Toyota of Downtown LA,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK2PU057966,Centennial Toyota,NV
-2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,395.0,30585.0,Port to dealer,False,DealerHold,4T1S31AK2PU059300,Toyota 101,CA
+2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,395.0,30585.0,Port to dealer,False,Available,4T1S31AK2PU059300,Toyota 101,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK2PU059331,Toyota of Lake City,WA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK2PU059460,Putnam Toyota,CA
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK2PU059572,Claremont Toyota,CA
@@ -1332,7 +1341,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1S31AK2PU617940,South Bay Toyota,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK2PU618120,Santa Cruz Toyota,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK2PU619039,Peterson Toyota,ID
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,395.0,30585.0,Port to dealer,False,DealerHold,4T1S31AK2PU619218,Toyota 101,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,395.0,30585.0,At dealer,False,Available,4T1S31AK2PU619218,Toyota 101,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK2PU619364,Dick Hannah Toyota,WA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK2PU619641,Toyota of San Bernardino,CA
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,2273.0,32663.0,Factory to port,False,,4T1S31AK2RU32G006,AutoNation Toyota Hayward,CA
@@ -1342,10 +1351,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,4173.0,34363.0,Port to dealer,False,Available,4T1S31AK3PU057975,AutoNation Toyota Irvine,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK3PU058298,Thousand Oaks Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK3PU058656,Tracy Toyota,CA
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK3PU058737,Capistrano Valley Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1S31AK3PU058933,Culver City Toyota,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK3PU058981,McGee Toyota,MA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,395.0,30585.0,Port to dealer,False,DealerHold,4T1S31AK3PU059001,Toyota 101,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,395.0,30585.0,At dealer,False,DealerHold,4T1S31AK3PU059001,Toyota 101,CA
 2023,Camry SE Hybrid,RESERVOIR BLUE,FWD,30190,1098.0,31288.0,At dealer,True,Available,4T1S31AK3PU059046,Toyota of Cedar Park,TX
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,1098.0,31288.0,Factory to port,True,Available,4T1S31AK3PU059077,Toyota of Cedar Park,TX
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,4173.0,34363.0,Port to dealer,False,,4T1S31AK3PU059113,AutoNation Toyota Irvine,CA
@@ -1356,8 +1364,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Factory to port,False,,4T1S31AK3PU31C922,Maita's Toyota of Sacramento,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,True,Available,4T1S31AK3PU617266,Doxon Toyota,WA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1S31AK3PU619017,Toyota San Luis Obispo,CA
-2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK3PU619728,Ferris Toyota,OH
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,29890,3401.0,33291.0,Port to dealer,False,Available,4T1S31AK4PU054065,AutoNation Toyota Cerritos,CA
+2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK3PU619728,Ferris Toyota,OH
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,29890,2656.0,32546.0,Port to dealer,False,Available,4T1S31AK4PU054065,AutoNation Toyota Cerritos,CA
 2023,Camry SE Hybrid,Reservoir Blue,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK4PU056527,Harr Toyota,SD
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1S31AK4PU058603,I-5 Toyota,WA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,2596.0,32786.0,At dealer,False,DealerHold,4T1S31AK4PU058729,Gresham Toyota,OR
@@ -1371,9 +1379,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Factory to port,False,,4T1S31AK4PU30B685,Dublin Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK4PU615946,West Herr Toyota of Orchard Park,NY
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK4PU617809,Rogers Toyota of Hermiston,OR
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK4PU618698,Toyota of Riverside,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK4PU618894,Claremont Toyota,CA
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK4PU619365,Dan Cava's Toyota World,WV
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK4PU619396,Fremont Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK4PU619589,Beaverton Toyota,OR
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK4PU619608,Toyota of Orange,CA
@@ -1381,15 +1386,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK4RU32F911,Santa Margarita Toyota,CA
 2024,Camry SE Hybrid,Midnight Black Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK4RU32G010,Santa Margarita Toyota,CA
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK4RU33B157,Santa Margarita Toyota,CA
-2023,Camry SE Hybrid,Ice Cap,FWD,29890,0.0,29890.0,Port to dealer,False,Available,4T1S31AK5PU054074,Tustin Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK5PU058514,Bosak Toyota of Chesterton,IN
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK5PU058609,Toyota Carlsbad,CA
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK5PU058609,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,590.0,30780.0,At dealer,False,Available,4T1S31AK5PU058898,Jordan Toyota,IN
 2023,Camry SE Hybrid,Reservoir Blue,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK5PU058965,Wilsonville Toyota,OR
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK5PU058996,Toyota of The Desert,CA
-2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK5PU059209,Motorworld Toyota,PA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK5PU059369,Toyota Walnut Creek,CA
-2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,True,Available,4T1S31AK5PU059453,Carlson Toyota,MN
+2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,True,Available,4T1S31AK5PU059453,Carlson Toyota,MN
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,395.0,30585.0,Factory to port,False,Available,4T1S31AK5PU30B677,Toyota 101,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,5580.0,35770.0,Factory to port,False,,4T1S31AK5PU31B223,Kearny Mesa Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,5112.0,35302.0,Factory to port,False,,4T1S31AK5PU31C954,Norm Reeves Toyota San Diego,CA
@@ -1402,7 +1405,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Factory to port,False,DealerHold,4T1S31AK6PU055959,Mossy Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK6PU057338,Toyota of Glendora,CA
 2023,Camry SE Hybrid,Cavalry Blue,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK6PU058781,AutoNation Toyota Spokane Valley,WA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1S31AK6PU058828,Toyota of Downtown LA,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK6PU058862,Loyalty Toyota,VA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK6PU059154,Sloane Toyota of Malvern,PA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK6PU059381,Freeman Toyota,CA
@@ -1421,14 +1423,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,1390.0,31780.0,Factory to port,False,,4T1S31AK6RU32G008,Toyota Chula Vista,CA
 2024,Camry SE Hybrid,Midnight Black Metallic,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK6RU33D511,Schaumburg Toyota,IL
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK6RU33F212,Santa Margarita Toyota,CA
-2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK7PU057316,I-10 Toyota,CA
+2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,1098.0,31488.0,Factory to port,True,DealerHold,4T1S31AK6RU34C306,Toyota of Terre Haute,IN
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK7PU058711,Olathe Toyota,KS
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,True,DealerHold,4T1S31AK7PU058725,Freeman Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK7PU058739,Toyota of Glendale,CA
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1S31AK7PU058823,Toyota Carlsbad,CA
+2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK7PU058823,Toyota Carlsbad,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK7PU058837,Capistrano Valley Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,2777.0,32967.0,Port to dealer,False,,4T1S31AK7PU058935,AutoNation Toyota Buena Park,CA
-2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK7PU059289,Green Toyota,IL
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK7PU059311,Folsom Lake Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK7PU059549,Santa Margarita Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Factory to port,False,,4T1S31AK7PU31B272,Toyota of Poway,CA
@@ -1440,14 +1441,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK7PU618274,Toyota of The Desert,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK7PU618677,Envision Toyota of West Covina,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK7PU618792,Manhattan Beach Toyota,CA
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK7PU618890,Toyota of Downtown LA,CA
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK7PU618890,Toyota of Downtown LA,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK7PU619022,Toyota of Orange,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK7PU619036,DARCARS Toyota of Frederick,MD
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,Available,4T1S31AK7PU619635,Lake Country Toyota,MN
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,Available,4T1S31AK7RU32B142,University Toyota,WV
 2024,Camry SE Hybrid,Ice Edge,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK7RU33B251,Concord Toyota,CA
 2024,Camry SE Hybrid,Cavalry Blue,FWD,30390,0.0,30390.0,Factory to port,False,DealerHold,4T1S31AK7RU33F204,Joseph Toyota of Cincinnati,OH
-2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK8PU057499,Hamilton Toyota,NM
+2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK7RU34E873,Magnussen's Toyota of Palo Alto,CA
+2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AK8PU057499,Hamilton Toyota,NM
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK8PU057888,Hansel Toyota,CA
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK8PU058569,Thousand Oaks Toyota,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AK8PU058703,Toyota of Glendale,CA
@@ -1462,19 +1464,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK9PU059309,Findlay Toyota,NV
 2023,Camry SE Hybrid,Ice Edge,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK9PU059441,Toyota of Poway,CA
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,5112.0,35302.0,Factory to port,False,,4T1S31AK9PU31C066,Norm Reeves Toyota San Diego,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,29890,2490.0,32380.0,Port to dealer,False,Available,4T1S31AK9PU613125,Toyota of El Cajon,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AK9PU617921,Tustin Toyota,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,5112.0,35302.0,Port to dealer,False,,4T1S31AK9PU618793,Norm Reeves Toyota San Diego,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AK9PU619460,Tustin Toyota,CA
 2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AK9PU619748,Toyota Marin,CA
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,True,,4T1S31AK9RU33B199,Toyota of Des Moines,IA
 2024,Camry SE Hybrid,Ice Edge,FWD,30390,0.0,30390.0,Factory to port,False,Available,4T1S31AK9RU33D518,Frankfort Toyota,KY
+2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AK9RU35E823,Magnussen's Toyota of Palo Alto,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AKXPU056306,Superior Toyota,WV
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,At dealer,False,,4T1S31AKXPU057343,Yellowstone Toyota,WY
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,Available,4T1S31AKXPU058346,Toyota of Hollywood,CA
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1S31AKXPU058735,South Bay Toyota,CA
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AKXPU058928,Lithia Toyota of Springfield,OR
-2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,3690.0,33880.0,Port to dealer,False,Available,4T1S31AKXPU058993,Bob Howard Toyota,OK
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AKXPU058928,Lithia Toyota of Springfield,OR
+2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,3690.0,33880.0,At dealer,False,Available,4T1S31AKXPU058993,Bob Howard Toyota,OK
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,True,DealerHold,4T1S31AKXPU059111,Charlie's Toyota,ME
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AKXPU059366,Toyota of Hollywood,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,,4T1S31AKXPU059402,Fremont Toyota,CA
@@ -1487,8 +1488,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid,Predawn Gray Mica,FWD,30190,4173.0,34363.0,At dealer,False,Available,4T1S31AKXPU618513,AutoNation Toyota Irvine,CA
 2023,Camry SE Hybrid,Midnight Black Metallic,FWD,30190,0.0,30190.0,Port to dealer,False,DealerHold,4T1S31AKXPU619015,Emerson Toyota,ME
 2023,Camry SE Hybrid,Ice Cap,FWD,30190,0.0,30190.0,At dealer,False,DealerHold,4T1S31AKXPU619032,North Bakersfield Toyota,CA
-2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Factory to port,False,Available,4T1S31AKXPU619743,Hixson Toyota,LA
+2023,Camry SE Hybrid,Celestial Silver Metallic,FWD,30190,0.0,30190.0,Factory to port,False,DealerHold,4T1S31AKXPU619743,Hixson Toyota,LA
 2024,Camry SE Hybrid,Ice Cap,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AKXRU33F164,Monken Toyota of Mt. Vernon,IL
+2024,Camry SE Hybrid,Predawn Gray Mica,FWD,30390,0.0,30390.0,Factory to port,False,,4T1S31AKXRU34E897,St. Charles Toyota,IL
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK0PU058649,Conicelli Toyota of Springfield,PA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1T31AK0PU058859,Koch 33 Toyota,PA
 2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,Factory to port,False,Available,4T1T31AK0PU31A551,Gates Toyota,IN
@@ -1497,14 +1499,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK1PU059339,Jones Toyota,MD
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK1PU059342,Ourisman Fairfax Toyota,VA
 2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,0.0,31390.0,Factory to port,True,DealerHold,4T1T31AK1RU33E084,Elgin Toyota,IL
-2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,Port to dealer,False,Available,4T1T31AK2PU057809,Town Toyota,WA
+2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,At dealer,False,Available,4T1T31AK2PU057809,Town Toyota,WA
 2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,798.0,31988.0,Port to dealer,False,,4T1T31AK2PU058958,Toyota of Tacoma,WA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK2PU059110,Grants Pass Toyota,OR
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK2PU059334,"Molle Toyota, Inc.",MO
+2024,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31390,0.0,31390.0,Factory to port,False,,4T1T31AK2RU35E392,St. Cloud Toyota,MN
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,At dealer,False,,4T1T31AK3PU057981,Pearson Toyota,VA
 2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1T31AK3PU058760,Rogers Toyota of Hermiston,OR
-2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK3PU058922,Future Toyota of Yuba City,CA
-2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK3PU059164,Bernardi Toyota,MA
+2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,,4T1T31AK3PU058922,Future Toyota of Yuba City,CA
+2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,,4T1T31AK3PU059018,Thompson's Toyota of Placerville,CA
+2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,DealerHold,4T1T31AK3PU059164,Bernardi Toyota,MA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK3PU059200,AutoNation Toyota Spokane Valley,WA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,True,DealerHold,4T1T31AK3PU059567,Brewer Airport Toyota,PA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,4173.0,35363.0,Port to dealer,True,Available,4T1T31AK4PU059240,AutoNation Toyota Irvine,CA
@@ -1513,13 +1517,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK4PU059464,Tracy Toyota,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK4PU059559,Big Two Toyota of Chandler,AZ
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Factory to port,False,,4T1T31AK4PU31C206,Hansel Toyota,CA
+2024,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31390,395.0,31785.0,Factory to port,False,,4T1T31AK4RU32H016,Toyota of Olympia,WA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK5PU059103,Elk Grove Toyota,CA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,1695.0,32885.0,Port to dealer,False,,4T1T31AK5PU059490,Findlay Toyota Prescott,AZ
-2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,,4T1T31AK5PU059604,Advantage Toyota of River Oaks,IL
 2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,1278.0,32668.0,Factory to port,False,,4T1T31AK5RU32F792,AutoNation Toyota Buena Park,CA
 2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,0.0,31390.0,Factory to port,False,,4T1T31AK5RU33B446,Schaumburg Toyota,IL
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK6PU057456,Penske Toyota,CA
-2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK6PU059031,Phil Meador Toyota,ID
+2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,At dealer,False,,4T1T31AK6PU059031,Phil Meador Toyota,ID
 2023,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK6PU059174,Toyota Walnut Creek,CA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK6PU059370,Hansel Toyota,CA
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Factory to port,False,,4T1T31AK6PU31B137,Prestige Toyota of Ramsey,NJ
@@ -1528,9 +1532,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,,4T1T31AK7PU059278,Koons Tysons Toyota,VA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,True,,4T1T31AK7PU059281,Doxon Toyota,WA
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK7PU059359,Wilsonville Toyota,OR
+2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,Factory to port,True,DealerHold,4T1T31AK7PU31C796,Toyota on Edens,IL
 2024,Camry SE Hybrid Nightshade,Reservoir Blue,FWD,31390,888.0,32278.0,Factory to port,False,,4T1T31AK7RU32D218,Romeoville Toyota,IL
 2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,0.0,31390.0,Factory to port,False,,4T1T31AK7RU33D408,Toyota Carlsbad,CA
-2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,At dealer,False,Available,4T1T31AK8PU058348,Big Two Toyota of Chandler,AZ
+2024,Camry SE Hybrid Nightshade,Ice Cap,FWD,31390,0.0,31390.0,Factory to port,False,,4T1T31AK7RU34A570,Toyota on Edens,IL
 2023,Camry SE Hybrid Nightshade,Midnight Black Metallic,FWD,31190,0.0,31190.0,At dealer,False,,4T1T31AK8PU058527,Andy Mohr Toyota,IN
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Port to dealer,False,DealerHold,4T1T31AK8PU059094,Hendrick Toyota Merriam,KS
 2023,Camry SE Hybrid Nightshade,Ice Cap,FWD,31190,0.0,31190.0,Factory to port,True,,4T1T31AK8PU31D441,Carlson Toyota,MN
