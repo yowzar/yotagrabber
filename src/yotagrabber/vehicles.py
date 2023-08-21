@@ -1,11 +1,11 @@
 """Get a list of Toyota vehicles from the Toyota website."""
 import datetime
-from functools import cache
-import os
 import json
-import random
+import os
 import sys
 import uuid
+from functools import cache
+from secrets import randbelow
 
 import pandas as pd
 import requests
@@ -26,9 +26,9 @@ def get_vehicles_query():
         query = fileh.read()
 
     # Replace certain place holders in the query with values.
-    query = query.replace("ZIPCODE", config.random_zip_code())
+    query = query.replace("ZIPCODE", "90210")
     query = query.replace("MODELCODE", MODEL)
-    query = query.replace("DISTANCEMILES", str(random.randrange(10000, 20000)))
+    query = query.replace("DISTANCEMILES", str(5823 + randbelow(1000)))
     query = query.replace("LEADIDUUID", str(uuid.uuid4()))
 
     return query
@@ -39,11 +39,10 @@ def read_local_data():
     return pd.read_parquet(f"output/{MODEL}_raw.parquet")
 
 
-def query_toyota(page_number):
+def query_toyota(page_number, query):
     """Query Toyota for a list of vehicles."""
 
-    # Load query and replace the page number.
-    query = get_vehicles_query()
+    # Replace the page number in the query
     query = query.replace("PAGENUMBER", str(page_number))
 
     # Make request.
@@ -70,10 +69,13 @@ def get_all_pages():
     df = pd.DataFrame()
     page_number = 1
 
+    # Read the query.
+    query = get_vehicles_query()
+
     while True:
         # Get a page of vehicles.
         print(f"Getting page {page_number} of {MODEL} vehicles")
-        result = query_toyota(page_number)
+        result = query_toyota(page_number, query)
 
         # Stop if we received no more results.
         if not result:
