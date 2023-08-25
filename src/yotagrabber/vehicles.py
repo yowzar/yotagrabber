@@ -184,7 +184,7 @@ def update_vehicles():
         "holdStatus": "Hold Status",
         "year": "Year",
         "drivetrain.code": "Drivetrain",
-        "options": "Options",
+        # "options": "Options",
     }
 
     with open(f"output/models.json", "r") as fileh:
@@ -207,7 +207,7 @@ def update_vehicles():
                 "dealerMarketingName",
                 # "dealerWebsite",
                 "Dealer State",
-                "options",
+                # "options",
             ]
         ]
         .copy(deep=True)
@@ -246,7 +246,7 @@ def update_vehicles():
     # )
     # df.drop(columns=["media"], inplace=True)
 
-    df["Options"] = df["Options"].apply(extract_marketing_long_names)
+    # df["Options"] = df["Options"].apply(extract_marketing_long_names)
 
     df = df[
         [
@@ -265,7 +265,7 @@ def update_vehicles():
             # "Dealer Website",
             "Dealer State",
             # "Image",
-            "Options",
+            # "Options",
         ]
     ]
 
