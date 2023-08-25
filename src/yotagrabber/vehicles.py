@@ -10,7 +10,7 @@ from secrets import randbelow
 import pandas as pd
 import requests
 
-from yotagrabber import config
+from yotagrabber import config, wafbypass
 
 # Set to True to use local data and skip requests to the Toyota website.
 USE_LOCAL_DATA_ONLY = False
@@ -39,7 +39,7 @@ def read_local_data():
     return pd.read_parquet(f"output/{MODEL}_raw.parquet")
 
 
-def query_toyota(page_number, query):
+def query_toyota(page_number, query, headers):
     """Query Toyota for a list of vehicles."""
 
     # Replace the page number in the query
@@ -51,7 +51,7 @@ def query_toyota(page_number, query):
     resp = requests.post(
         url,
         json=json_post,
-        headers=config.get_headers(),
+        headers=headers,
         timeout=15,
     )
 
@@ -72,10 +72,13 @@ def get_all_pages():
     # Read the query.
     query = get_vehicles_query()
 
+    # Get headers by bypassing the WAF.
+    headers = wafbypass.WAFBypass().run()
+
     while True:
         # Get a page of vehicles.
         print(f"Getting page {page_number} of {MODEL} vehicles")
-        result = query_toyota(page_number, query)
+        result = query_toyota(page_number, query, headers)
 
         # Stop if we received no more results.
         if not result:

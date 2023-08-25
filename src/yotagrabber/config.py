@@ -22,14 +22,3 @@ def random_zip_code():
 
     random.shuffle(zip_codes)
     return [x for x in zip_codes][0].strip()
-
-
-def get_headers():
-    """Get the headers used when making requests to the Toyota website."""
-    headers = {
-        "origin": "https://www.toyota.com",
-        "referrer": "https://www.toyota.com/",
-        "user-agent": random_user_agent(),
-        "accept": "*/*",
-    }
-    return headers
