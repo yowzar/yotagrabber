@@ -248,12 +248,14 @@ def update_vehicles():
 
     # df["Options"] = df["Options"].apply(extract_marketing_long_names)
 
+    # Add the drivetrain to the model name to reduce complexity.
+    df["Model"] = df["Model"] + " " + df["Drivetrain"]
+
     df = df[
         [
             "Year",
             "Model",
             "Color",
-            "Drivetrain",
             "Base MSRP",
             "Markup",
             "Dealer Price",
