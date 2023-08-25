@@ -75,6 +75,9 @@ def get_all_pages():
     # Get headers by bypassing the WAF.
     headers = wafbypass.WAFBypass().run()
 
+    # Set a last run counter.
+    last_run_counter = 0
+
     while True:
         # Get a page of vehicles.
         print(f"Getting page {page_number} of {MODEL} vehicles")
@@ -87,7 +90,14 @@ def get_all_pages():
 
         # Add the current page to the big dataframe.
         df = pd.concat([df, pd.json_normalize(result["vehicleSummary"])])
+        print(f"Found {len(df)} vehicles so far.\n")
 
+        # If we didn't find more cars from the previous run, we've found them all.
+        if len(df) == last_run_counter:
+            print("All vehicles found.")
+            break
+
+        last_run_counter = len(df)
         page_number += 1
         continue
 
