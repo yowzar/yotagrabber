@@ -20,13 +20,14 @@ MODEL = os.environ.get("MODEL")
 
 
 @cache
-def get_vehicles_query():
+def get_vehicles_query(coast="west"):
     """Read vehicles query from a file."""
     with open(f"{config.BASE_DIRECTORY}/graphql/vehicles.graphql", "r") as fileh:
         query = fileh.read()
 
     # Replace certain place holders in the query with values.
-    query = query.replace("ZIPCODE", "90210")
+    zip_code = "90210" if coast == "west" else "10010"
+    query = query.replace("ZIPCODE", zip_code)
     query = query.replace("MODELCODE", MODEL)
     query = query.replace("DISTANCEMILES", str(5823 + randbelow(1000)))
     query = query.replace("LEADIDUUID", str(uuid.uuid4()))
@@ -70,7 +71,8 @@ def get_all_pages():
     page_number = 1
 
     # Read the query.
-    query = get_vehicles_query()
+    west_coast_query = get_vehicles_query()
+    east_coast_query = get_vehicles_query(coast="east")
 
     # Get headers by bypassing the WAF.
     headers = wafbypass.WAFBypass().run()
@@ -81,15 +83,19 @@ def get_all_pages():
     while True:
         # Get a page of vehicles.
         print(f"Getting page {page_number} of {MODEL} vehicles")
-        result = query_toyota(page_number, query, headers)
+        west_result = query_toyota(page_number, west_coast_query, headers)
+        east_result = query_toyota(page_number, east_coast_query, headers)
 
         # Stop if we received no more results.
-        if not result:
-            print("No more results.")
-            break
+        if west_result:
+            df = pd.concat([df, pd.json_normalize(west_result["vehicleSummary"])])
 
-        # Add the current page to the big dataframe.
-        df = pd.concat([df, pd.json_normalize(result["vehicleSummary"])])
+        if east_result:
+            df = pd.concat([df, pd.json_normalize(east_result["vehicleSummary"])])
+
+        # Drop any duplicate VINs.
+        df.drop_duplicates(subset=["vin"], inplace=True)
+
         print(f"Found {len(df)} vehicles so far.\n")
 
         # If we didn't find more cars from the previous run, we've found them all.
