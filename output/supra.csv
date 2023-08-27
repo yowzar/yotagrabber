@@ -5,7 +5,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Port to dealer,True,DealerHold,WZ1DB0G00PW061519,Rudy Luther Toyota,MN
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,0.0,56750.0,At dealer,True,,WZ1DB0G00PW061780,Antioch Toyota,CA
 2023,3.0 MT RWD,Stratosphere,53600,0.0,53600.0,Port to dealer,True,,WZ1DB0G00PW061813,Malloy Toyota,VA
-2023,3.0 RWD,Nocturnal,53600,0.0,53600.0,At dealer,False,Available,WZ1DB0G00PW061973,Ardmore Toyota,PA
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,0.0,56750.0,Factory to port,True,DealerHold,WZ1DB0G00PW062055,North Bakersfield Toyota,CA
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,0.0,56750.0,Factory to port,False,Available,WZ1DB0G00PW062105,Empire Toyota,NY
 2023,3.0 Premium MT RWD,Nocturnal,56750,0.0,56750.0,Factory to port,True,,WZ1DB0G00PW062119,Johnson City Toyota,TN
@@ -20,8 +19,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G00RW062544,Ammaar's Toyota Vacaville,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G00RW062561,Modesto Toyota,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G00RW062592,Inver Grove Toyota,MN
+2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G00RW062642,Joseph Toyota of Cincinnati,OH
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G00RW062673,"Molle Toyota, Inc.",MO
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G00RW062740,Camelback Toyota,AZ
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G00RW062849,Eddy's Toyota of Wichita,KS
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,,WZ1DB0G00RW35AA16,Avondale Toyota,AZ
 2023,3.0 Premium MT RWD,Stratosphere,56150,1990.0,58140.0,Port to dealer,True,,WZ1DB0G01PW060475,East Madison Toyota,WI
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Factory to port,False,DealerHold,WZ1DB0G01PW061254,Lou Fusz Toyota,MO
@@ -31,7 +32,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,0.0,56750.0,Port to dealer,True,DealerHold,WZ1DB0G01PW061688,Szott M-59 Toyota,MI
 2023,3.0 RWD,Renaissance Red 2.0,53600,2995.0,56595.0,Factory to port,True,DealerHold,WZ1DB0G01PW061867,Toyota Carlsbad,CA
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,6875.0,63625.0,Factory to port,True,Available,WZ1DB0G01PW061884,Red McCombs Toyota,TX
-2023,3.0 RWD,Absolute Zero,53600,0.0,53600.0,At dealer,False,Available,WZ1DB0G01PW061898,Butler Toyota,GA
 2023,3.0 MT RWD,Stratosphere,53600,699.0,54299.0,Factory to port,True,DealerHold,WZ1DB0G01PW061934,Landers Toyota,AR
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,At dealer,True,DealerHold,WZ1DB0G01PW061965,Empire Toyota,NY
 2023,3.0 Premium MT RWD,Renaissance Red 2.0,56750,0.0,56750.0,Factory to port,True,DealerHold,WZ1DB0G01PW062078,Mike Calvert Toyota,TX
@@ -47,7 +47,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,3.0 RWD,Absolute Zero,53600,0.0,53600.0,Port to dealer,True,DealerHold,WZ1DB0G02PW061554,Luther Brookdale Toyota,MN
 2023,3.0 Premium MT RWD,Renaissance Red 2.0,56750,2295.0,59045.0,Factory to port,True,,WZ1DB0G02PW061733,Desert Toyota of Tucson,AZ
 2023,3.0 Premium MT RWD,Stratosphere,56750,0.0,56750.0,Factory to port,True,DealerHold,WZ1DB0G02PW061893,Toyota of Riverside,CA
-2023,3.0 Premium RWD,Stratosphere,56750,0.0,56750.0,At dealer,True,DealerHold,WZ1DB0G02PW061943,Marshall Dry Ridge Toyota,KY
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Factory to port,False,DealerHold,WZ1DB0G02PW061960,Toyota Walnut Creek,CA
 2023,3.0 Premium RWD,Stratosphere,56750,0.0,56750.0,Factory to port,True,DealerHold,WZ1DB0G02PW062039,Toyota of Manhattan,NY
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,4133.0,60883.0,Factory to port,False,,WZ1DB0G02PW062087,Norm Reeves Toyota San Diego,CA
@@ -59,15 +58,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G02RW062674,Culver City Toyota,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,2594.0,66969.0,Factory to port,False,DealerHold,WZ1DB0G02RW35AA20,Hudson Toyota,NJ
 2023,3.0 Premium RWD,Nocturnal,56150,0.0,56150.0,At dealer,False,DealerHold,WZ1DB0G03PW060011,Oxmoor Toyota,KY
-2023,3.0 Premium RWD,Nocturnal,56150,0.0,56150.0,At dealer,False,Available,WZ1DB0G03PW060462,Kolosso Toyota,WI
-2023,3.0 Premium MT RWD,Stratosphere,56150,0.0,56150.0,Factory to port,True,DealerHold,WZ1DB0G03PW060770,Toyota of Santa Maria,CA
+2023,3.0 Premium RWD,Nocturnal,56150,0.0,56150.0,At dealer,False,DealerHold,WZ1DB0G03PW060462,Kolosso Toyota,WI
 2023,3.0 RWD,Nitro Yellow,53000,5169.0,58169.0,At dealer,False,Available,WZ1DB0G03PW061076,Poe Toyota,TX
 2023,3.0 Premium RWD,Renaissance Red 2.0,56750,0.0,56750.0,Factory to port,False,DealerHold,WZ1DB0G03PW061210,Cumberland Toyota,TN
-2023,3.0 Premium RWD,Absolute Zero,56750,0.0,56750.0,At dealer,True,,WZ1DB0G03PW061479,DCH Toyota of Oxnard,CA
-2023,3.0 Premium RWD,Nocturnal,56750,0.0,56750.0,At dealer,False,DealerHold,WZ1DB0G03PW061577,Toyota of Cool Springs,TN
+2023,3.0 Premium RWD,Absolute Zero,56750,0.0,56750.0,At dealer,False,,WZ1DB0G03PW061479,DCH Toyota of Oxnard,CA
 2023,3.0 RWD,Nitro Yellow,53600,0.0,53600.0,Factory to port,True,Available,WZ1DB0G03PW061627,Mike Shaw Toyota,TX
-2023,3.0 Premium MT RWD,Absolute Zero,56750,699.0,57449.0,Factory to port,True,DealerHold,WZ1DB0G03PW061661,Landers Toyota,AR
 2023,3.0 Premium RWD,Nocturnal,56750,0.0,56750.0,Port to dealer,True,DealerHold,WZ1DB0G03PW061692,Millennium Toyota,NY
+2023,3.0 Premium RWD,Absolute Zero,56750,0.0,56750.0,Factory to port,False,DealerHold,WZ1DB0G03PW061708,Santa Margarita Toyota,CA
 2023,3.0 MT RWD,Renaissance Red 2.0,53600,1695.0,55295.0,Factory to port,True,DealerHold,WZ1DB0G03PW061823,Anderson Toyota,AZ
 2023,3.0 Premium MT RWD,Nocturnal,56750,0.0,56750.0,Factory to port,True,DealerHold,WZ1DB0G03PW061871,Family Toyota of Arlington,TX
 2023,3.0 Premium RWD,Nocturnal,56750,0.0,56750.0,Port to dealer,False,DealerHold,WZ1DB0G03PW061983,Olathe Toyota,KS
@@ -107,7 +104,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,,WZ1DB0G04RW062689,Toyota of Boardman,OH
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G04RW062739,Stevens Creek Toyota,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G04RW062837,Corwin Toyota,ND
-2023,3.0 Premium RWD,Renaissance Red 2.0,55650,0.0,55650.0,At dealer,False,Available,WZ1DB0G05PW055067,City Toyota,CA
+2024,3.0 Premium RWD,Absolute Zero,57650,0.0,57650.0,Factory to port,False,,WZ1DB0G04RW062868,Quality Toyota of Independence,KS
+2024,3.0 RWD,Absolute Zero,54500,0.0,54500.0,Factory to port,False,,WZ1DB0G04RW062871,Gosch Toyota,CA
+2023,3.0 Premium RWD,Renaissance Red 2.0,55650,0.0,55650.0,At dealer,False,DealerHold,WZ1DB0G05PW055067,City Toyota,CA
 2023,3.0 Premium MT RWD,Nocturnal,55650,0.0,55650.0,Factory to port,True,DealerHold,WZ1DB0G05PW058065,St. Charles Toyota,IL
 2023,3.0 Premium RWD,Nocturnal,56150,0.0,56150.0,Factory to port,False,DealerHold,WZ1DB0G05PW060267,Toyota of Louisville,KY
 2023,3.0 Premium RWD,Absolute Zero,56150,0.0,56150.0,At dealer,False,Available,WZ1DB0G05PW060785,Charles Toyota,CT
@@ -140,7 +139,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,1795.0,66170.0,Factory to port,False,DealerHold,WZ1DB0G06RW062158,Simi Valley Toyota,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G06RW062161,Sansone Toyota,NJ
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G06RW062340,Claremont Toyota,CA
-2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G06RW062550,AutoNation Toyota Cerritos,CA
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G06RW062368,Toyota of Santa Maria,CA
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G06RW062578,Prestige Toyota of Ramsey,NJ
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,1899.0,66274.0,Factory to port,False,DealerHold,WZ1DB0G06RW062774,Wolfchase Toyota,TN
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G06RW062824,Toyota of Riverside,CA
@@ -161,13 +160,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G07RW062458,Earnhardt Toyota,AZ
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G07RW062668,Hanlees Toyota,CA
 2024,3.0 Premium RWD,Stratosphere,57650,0.0,57650.0,Factory to port,True,DealerHold,WZ1DB0G07RW062718,Concord Toyota,CA
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G07RW062783,Oxmoor Toyota,KY
 2023,3.0 Premium RWD,Stratosphere,56150,0.0,56150.0,At dealer,True,DealerHold,WZ1DB0G08PW060621,Szott M-59 Toyota,MI
 2023,3.0 Premium RWD,Renaissance Red 2.0,56150,0.0,56150.0,Factory to port,False,,WZ1DB0G08PW060859,Toyota of Downtown LA,CA
 2023,3.0 RWD,Nocturnal,53600,0.0,53600.0,Port to dealer,False,DealerHold,WZ1DB0G08PW061543,Olathe Toyota,KS
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Factory to port,True,DealerHold,WZ1DB0G08PW061770,Vancouver Toyota,WA
 2023,3.0 Premium RWD,Nocturnal,56750,0.0,56750.0,Port to dealer,False,DealerHold,WZ1DB0G08PW061977,Zanesville Toyota,OH
 2023,3.0 Premium MT RWD,Nocturnal,56750,0.0,56750.0,Factory to port,False,DealerHold,WZ1DB0G08PW061980,Bob Smith Toyota,CA
-2023,3.0 Premium RWD,Absolute Zero,56750,0.0,56750.0,At dealer,False,DealerHold,WZ1DB0G08PW062045,Fort Wayne Toyota,IN
 2023,3.0 Premium MT RWD,Renaissance Red 2.0,56750,0.0,56750.0,Port to dealer,True,DealerHold,WZ1DB0G08PW062062,Tansky Sawmill Toyota,OH
 2023,3.0 Premium MT RWD,Nocturnal,56750,0.0,56750.0,Factory to port,True,Available,WZ1DB0G08PW062143,Family Toyota of Burleson,TX
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G08RW062369,Advantage Toyota,NY
@@ -178,8 +177,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,3.0 Premium RWD,Nocturnal,57650,0.0,57650.0,Factory to port,True,DealerHold,WZ1DB0G08RW062856,Toyota of El Cajon,CA
 2023,3.0 Premium MT RWD,Nocturnal,56750,0.0,56750.0,Factory to port,False,DealerHold,WZ1DB0G09PW061177,Sloane Toyota of Malvern,PA
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Port to dealer,True,,WZ1DB0G09PW061485,San Francisco Toyota,CA
-2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,At dealer,False,,WZ1DB0G09PW061583,Toyota Marin,CA
+2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Factory to port,True,,WZ1DB0G09PW061633,Hansel Toyota,CA
 2023,3.0 Premium RWD,Nocturnal,56750,0.0,56750.0,Factory to port,True,Available,WZ1DB0G09PW061695,Sterling McCall Toyota Fort Bend,TX
+2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Factory to port,True,,WZ1DB0G09PW061714,One Toyota of Oakland,CA
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Port to dealer,False,DealerHold,WZ1DB0G09PW061762,Beaman Toyota,TN
 2023,3.0 MT RWD,Absolute Zero,53600,0.0,53600.0,Factory to port,True,,WZ1DB0G09PW061793,San Francisco Toyota,CA
 2023,3.0 Premium MT RWD,Absolute Zero,56750,0.0,56750.0,Port to dealer,False,DealerHold,WZ1DB0G09PW061826,"Molle Toyota, Inc.",MO
@@ -197,6 +197,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G09RW062672,City Toyota,CA
 2024,3.0 RWD,Nocturnal,54500,10000.0,64500.0,Factory to port,False,Available,WZ1DB0G09RW062719,Shottenkirk Toyota Granbury,TX
 2024,3.0 Premium RWD,Nocturnal,57650,0.0,57650.0,Factory to port,False,DealerHold,WZ1DB0G09RW062736,Westbury Toyota,NY
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G09RW062834,Walser Bloomington Toyota,MN
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G09RW34AA18,Maita's Toyota of Sacramento,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,8885.0,73260.0,Factory to port,False,DealerHold,WZ1DB0G09RW35AA15,Berge Toyota,AZ
 2023,A91-MT RWD,Burnout,58345,0.0,58345.0,At dealer,True,Available,WZ1DB0G0XPW056103,St. Charles Toyota,IL
@@ -214,7 +215,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,False,,WZ1DB0G0XRW062440,Hamer Toyota,CA
 2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G0XRW062504,Toyota West,OH
 2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,False,DealerHold,WZ1DB0G0XRW062681,Premier Toyota of Amherst,OH
-2024,45th Anniversary Edition RWD,Absolute Zero,64375,0.0,64375.0,Factory to port,True,DealerHold,WZ1DB0G0XRW31AA25,Joseph Toyota of Cincinnati,OH
+2024,45th Anniversary Edition RWD,Mikan Blast,64375,0.0,64375.0,Factory to port,True,,WZ1DB0G0XRW35AA10,Hansel Toyota,CA
 2023,2.0 RWD,Nitro Yellow,44640,0.0,44640.0,Factory to port,True,DealerHold,WZ1DB2G00PW061273,McGeorge Toyota,VA
 2023,2.0 RWD,Absolute Zero,44640,0.0,44640.0,Factory to port,False,,WZ1DB2G00PW061743,Folsom Lake Toyota,CA
 2023,2.0 RWD,Absolute Zero,44640,0.0,44640.0,At dealer,False,,WZ1DB2G00PW062018,Oakbrook Toyota in Westmont,IL
@@ -236,7 +237,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2024,2.0 RWD,Nocturnal,45540,0.0,45540.0,At dealer,False,DealerHold,WZ1DB2G06RW062317,Coggin Toyota at the Avenues,FL
 2024,2.0 RWD,Absolute Zero,45540,0.0,45540.0,Factory to port,False,,WZ1DB2G06RW062804,Capitol Toyota of Salem,OR
 2023,2.0 RWD,Absolute Zero,44040,0.0,44040.0,At dealer,False,,WZ1DB2G07PW059410,Gerald Toyota of Matteson,IL
-2023,2.0 RWD,Absolute Zero,44640,0.0,44640.0,Factory to port,False,DealerHold,WZ1DB2G07PW061125,Sansone Toyota,NJ
+2023,2.0 RWD,Absolute Zero,44640,0.0,44640.0,Port to dealer,False,DealerHold,WZ1DB2G07PW061125,Sansone Toyota,NJ
 2023,2.0 RWD,Nocturnal,44640,0.0,44640.0,Factory to port,False,,WZ1DB2G07PW061299,Toyota of Wellesley,MA
 2023,2.0 RWD,Renaissance Red 2.0,44040,0.0,44040.0,Factory to port,False,DealerHold,WZ1DB2G08PW061036,New Country Toyota of Westport,CT
 2023,2.0 RWD,Absolute Zero,44640,0.0,44640.0,At dealer,False,Available,WZ1DB2G08PW061702,Penn Toyota,NY
