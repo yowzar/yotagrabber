@@ -6,13 +6,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG0PV008410,East Coast Toyota,NJ
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV008729,Toyota of Orlando,FL
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG0PV008858,Baxter Toyota of La Vista,NE
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,True,Available,7MUFBABG0PV009119,Toyota of Killeen,TX
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,True,Available,7MUFBABG0PV009119,Toyota of Killeen,TX
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,Available,7MUFBABG0PV009234,Parkway Toyota,NJ
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG0PV009394,Antioch Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG0PV009413,Advantage Toyota,NY
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV009525,Parker Toyota,ID
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV009699,Mid City Toyota,CA
-2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG0PV009718,Baierl Toyota,PA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV009721,Rivertown Toyota,GA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG0PV009735,DCH Brunswick Toyota,NJ
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV009914,DARCARS Toyota,MD
@@ -40,7 +39,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV011047,Walser Bloomington Toyota,MN
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG0PV011050,Victory Toyota of Midtown,IL
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,At dealer,True,DealerHold,7MUFBABG0PV011064,Toyota of Manhattan,NY
-2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG0PV011128,Longo Toyota,CA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG0PV011162,Fred Anderson Toyota of Charleston,SC
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,1995.0,33060.0,Port to dealer,True,DealerHold,7MUFBABG0PV011193,Toyota Carlsbad,CA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,,7MUFBABG0PV011243,Smithtown Toyota,NY
@@ -69,8 +67,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV011744,Walser Bloomington Toyota,MN
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,True,,7MUFBABG0PV011775,Ourisman Chantilly Toyota,VA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV011789,Conicelli Toyota,PA
+2023,S AWD,Sonic Silver,27970,0.0,27970.0,At dealer,True,DealerHold,7MUFBABG0PV011792,Jim Norton Toyota of Oklahoma City,OK
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG0PV011808,Stadium Toyota,FL
-2023,SE AWD,Barcelona Red Metallic,29290,2379.0,31669.0,At dealer,False,Available,7MUFBABG0PV011825,Gullo Toyota of Conroe,TX
+2023,SE AWD,Barcelona Red Metallic,29290,2379.0,31669.0,At dealer,False,DealerHold,7MUFBABG0PV011825,Gullo Toyota of Conroe,TX
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV011839,Hendrick Toyota North Charleston,SC
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,3085.0,34150.0,Port to dealer,False,,7MUFBABG0PV011842,Toyota of Glendale,CA
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG0PV011856,Fiore Toyota,PA
@@ -111,7 +110,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG0PV012649,Advantage Toyota,NY
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV012652,Freeman Toyota,TX
 2023,S AWD,Celestite,27970,0.0,27970.0,Factory to port,False,,7MUFBABG0PV012666,Toyota of Clermont,FL
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV012683,Heyward Allen Toyota,GA
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV012683,Stokes Toyota Beaufort,SC
 2023,SE AWD,Wind Chill Pearl,29290,1773.0,31063.0,Port to dealer,False,,7MUFBABG0PV012697,AutoNation Toyota Tempe,AZ
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG0PV012733,Team Toyota of Princeton,NJ
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG0PV012747,Toyota of Nashua,NH
@@ -137,19 +136,22 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG0PV013140,Brunswick Toyota,OH
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG0PV013199,Sheehy Toyota of Laurel,MD
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG0PV013204,Findlay Toyota Prescott,AZ
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV013235,Panama City Toyota,FL
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV013252,Boch Toyota South,MA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG0PV013283,Jay Wolfe Toyota,MO
+2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG0PV013297,Tri County Toyota,PA
+2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG0PV013302,Toyota of Puyallup,WA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV013316,Bryan College Station Toyota,TX
+2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG0PV013378,Toyota On Western,IL
+2023,SE AWD,Jet Black,29290,4966.0,34256.0,Port to dealer,False,,7MUFBABG0PV013395,Toyota of Turnersville,NJ
 2023,SE AWD,Jet Black,29290,2777.0,32067.0,Factory to port,False,,7MUFBABG0PV36B010,AutoNation Toyota Buena Park,CA
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,,7MUFBABG0PV40A548,Gault Toyota,NY
-2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV40A968,Seminole Toyota,FL
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV40A971,Modern Toyota of Boone,NC
 2023,SE AWD,Blue Crush Metallic,29290,885.0,30175.0,Factory to port,False,DealerHold,7MUFBABG0PV40B053,Toyota of Cleveland,TN
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG0PV40B358,Westbury Toyota,NY
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,True,,7MUFBABG0PV40B375,Ken Ganley Toyota Akron,OH
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV40B392,Toyota of Hollywood,FL
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,,7MUFBABG0PV40B411,Ardmore Toyota,PA
-2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV40B456,Stadium Toyota,FL
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,,7MUFBABG0PV40B733,Route 22 Toyota,NJ
 2023,S AWD,Wind Chill Pearl,27970,1893.0,29863.0,Factory to port,False,,7MUFBABG0PV40B750,Toyota World of Newton,NJ
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV40B764,Arlington Toyota,FL
@@ -186,7 +188,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG0PV42B271,Interstate Toyota,NY
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,True,,7MUFBABG0PV42B285,East Madison Toyota,WI
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG0PV42B299,Marietta Toyota,GA
-2023,XSE AWD,Wind Chill Pearl,31065,1990.0,33055.0,Factory to port,False,,7MUFBABG0PV42B318,East Madison Toyota,WI
+2023,XSE AWD,Wind Chill Pearl,31065,1990.0,33055.0,Factory to port,True,,7MUFBABG0PV42B318,East Madison Toyota,WI
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Factory to port,False,,7MUFBABG0PV42B321,Nalley Toyota Stonecrest,GA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG0PV42B366,Hall Toyota Elizabeth City,NC
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG0PV42B870,Toyota of Hollywood,FL
@@ -256,9 +258,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG1PV010165,Santa Cruz Toyota,CA
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,Available,7MUFBABG1PV010215,Ryburn Toyota,AR
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG1PV010344,Gloucester Toyota,VA
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG1PV010568,Romeo Toyota of Glens Falls,NY
+2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG1PV010568,Romeo Toyota of Glens Falls,NY
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG1PV010618,Toyota Sunnyvale,CA
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,True,Available,7MUFBABG1PV010621,City Toyota,CA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG1PV010635,Fred Anderson Toyota,NC
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,True,DealerHold,7MUFBABG1PV010666,Culver City Toyota,CA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG1PV010683,Tracy Toyota,CA
@@ -275,7 +276,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG1PV010893,Toyota of Bozeman,MT
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,True,,7MUFBABG1PV010909,One Toyota of Oakland,CA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG1PV010912,Toyota of San Bernardino,CA
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG1PV010926,Serra Toyota of Saginaw,MI
+2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG1PV010926,Serra Toyota of Saginaw,MI
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG1PV010957,Romano Toyota,NY
 2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,Available,7MUFBABG1PV010974,Hanlees Toyota,CA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG1PV011008,Keyes Toyota,CA
@@ -287,12 +288,10 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG1PV011266,Kari Toyota,WI
 2023,SE AWD,Jet Black,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG1PV011283,Stadium Toyota,FL
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG1PV011297,Younger Toyota,MD
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,,7MUFBABG1PV011302,Envision Toyota of Norwalk,CA
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG1PV011316,Family Toyota of Arlington,TX
 2023,XSE AWD,Celestite,31065,1995.0,33060.0,At dealer,True,Available,7MUFBABG1PV011333,Toyota of Killeen,TX
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG1PV011378,Toyota of Anaheim,CA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,At dealer,True,Available,7MUFBABG1PV011381,Sterling McCall Toyota Fort Bend,TX
-2023,SE AWD,Jet Black,29290,897.0,30187.0,At dealer,False,Available,7MUFBABG1PV011395,Toyota of Irving,TX
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG1PV011428,Keyes Toyota,CA
 2023,S AWD,Jet Black,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG1PV011459,Toyota of Nashua,NH
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,1999.0,33064.0,At dealer,False,DealerHold,7MUFBABG1PV011493,Karl Malone Toyota of Ruston,LA
@@ -356,6 +355,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG1PV012630,Ken Ganley Toyota,PA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,2594.0,31884.0,Port to dealer,False,Available,7MUFBABG1PV012644,Hudson Toyota,NJ
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG1PV012658,Inver Grove Toyota,MN
+2023,XSE AWD,Celestite,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV012661,Don McGill Toyota of Katy,TX
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG1PV012675,Lexington Toyota,MA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,,7MUFBABG1PV012689,Wesley Chapel Toyota,FL
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG1PV012708,Toyota of Greenfield,MA
@@ -384,21 +384,23 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG1PV013115,Koons Easton Toyota,MD
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,Available,7MUFBABG1PV013132,Baldwin Toyota,MO
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG1PV013163,Westbury Toyota,NY
+2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,,7MUFBABG1PV013180,Hendrick Toyota Apex,NC
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG1PV013213,Jaffarian Toyota,MA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG1PV013244,Balise Toyota,MA
+2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG1PV013275,Penske Toyota,CA
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG1PV013289,Sunrise Toyota,NY
 2023,XSE AWD,Sonic Silver,31065,799.0,31864.0,Factory to port,False,Available,7MUFBABG1PV013292,Landers Toyota NWA,AR
+2023,SE AWD,Sonic Silver/Jet Black roof,29290,2594.0,31884.0,Port to dealer,False,,7MUFBABG1PV013308,Hudson Toyota,NJ
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV013311,Hendrick Toyota Concord,NC
+2023,S AWD,Celestite,27970,0.0,27970.0,Factory to port,True,DealerHold,7MUFBABG1PV40A123,South Bay Toyota,CA
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG1PV40A140,Pinehurst Toyota,NC
-2023,S AWD,Wind Chill Pearl,27970,989.0,28959.0,Factory to port,False,,7MUFBABG1PV40A669,Dayton Toyota,NJ
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,True,Available,7MUFBABG1PV40A963,AutoNation Toyota Cerritos,CA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV40A994,Lipton Toyota,FL
 2023,SE AWD,Wind Chill Pearl,29290,2777.0,32067.0,Factory to port,False,,7MUFBABG1PV40B420,AutoNation Toyota Buena Park,CA
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,,7MUFBABG1PV40B479,Towne Toyota,NJ
-2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,,7MUFBABG1PV40B790,Toyota of Erie,PA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,,7MUFBABG1PV40B823,Toyota of Dartmouth,MA
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG1PV40B837,Toyota of Vero Beach,FL
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG1PV40B868,Toyota of Morristown,NJ
-2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,,7MUFBABG1PV40B871,Toyota On Western,IL
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,,7MUFBABG1PV41A098,Hansel Toyota,CA
 2023,SE AWD,Wind Chill Pearl,29290,1995.0,31285.0,Factory to port,False,Available,7MUFBABG1PV41A103,Danville Toyota,VA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV41A151,Southern 441 Toyota,FL
@@ -424,6 +426,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV42B182,Doral Toyota,FL
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV42B344,Toyota of Gastonia,NC
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV42B358,Gettel Toyota of Lakewood,FL
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG1PV42B361,Golling Toyota of Warren,MI
 2023,S AWD,Celestite,27970,0.0,27970.0,Factory to port,False,,7MUFBABG1PV42B389,Stephen Toyota,CT
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,,7MUFBABG1PV42B408,Empire Toyota,NY
 2023,S AWD,Celestite,27970,0.0,27970.0,Factory to port,False,,7MUFBABG1PV42B862,Malloy Toyota,VA
@@ -452,6 +455,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,,7MUFBABG1PV44A136,Madera Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,True,Available,7MUFBABG1PV44A167,Hansel Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,2777.0,33842.0,Factory to port,False,,7MUFBABG1PV44A170,AutoNation Toyota Buena Park,CA
+2023,SE AWD,Blue Crush Metallic,29290,4488.0,33778.0,Factory to port,False,Available,7MUFBABG1PV44A198,Toyota of Kirkland,WA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG1PV44A220,Fred Anderson Toyota of Sanford,NC
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG1PV44A573,Central Florida Toyota,FL
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,,7MUFBABG1PV44A587,Elgin Toyota,IL
@@ -463,6 +467,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG1PV44B349,Groove Toyota,CO
 2023,S AWD,Celestite,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG1PV44B481,Toyota of Dothan,AL
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG1PV44B724,AutoNation Toyota Winter Park,FL
+2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG1PV44B741,Roberts Toyota,TN
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG1PV44B772,Hendrick Toyota Apex,NC
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG1PV44B805,Toyota of Bowling Green,KY
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG2PV001507,Lithia Toyota,OR
@@ -494,9 +499,8 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG2PV010420,Toyota of Corvallis,OR
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG2PV010448,Fred Anderson Toyota,NC
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG2PV010465,Spitzer Toyota,PA
-2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG2PV010501,Country Toyota,TX
+2023,S AWD,Sonic Silver,27970,0.0,27970.0,Port to dealer,False,Available,7MUFBABG2PV010501,Country Toyota,TX
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,False,,7MUFBABG2PV010529,Novato Toyota,CA
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG2PV010708,Temecula Valley Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG2PV010711,Limbaugh Toyota,AL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG2PV010739,Perry Motors Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG2PV010742,Peterson Toyota,ID
@@ -534,6 +538,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG2PV011714,Gettel Toyota of Bradenton,FL
 2023,SE AWD,Sonic Silver,29290,2998.0,32288.0,At dealer,False,Available,7MUFBABG2PV011728,San Marcos Toyota,TX
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG2PV011731,Diehl Toyota of Butler,PA
+2023,S AWD,Sonic Silver,27970,0.0,27970.0,Port to dealer,True,,7MUFBABG2PV011745,One Toyota of Oakland,CA
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,1995.0,33060.0,Port to dealer,False,,7MUFBABG2PV011793,Toyota Carlsbad,CA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG2PV011809,Toyota of Glendora,CA
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG2PV011907,Lancaster Toyota,PA
@@ -542,7 +547,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG2PV011941,Millennium Toyota,NY
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG2PV012006,Toyota of Puyallup,WA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,Available,7MUFBABG2PV012023,West Coast Toyota of Long Beach,CA
-2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,True,DealerHold,7MUFBABG2PV012037,Fowler Toyota of Tulsa,OK
+2023,S AWD,Sonic Silver,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG2PV012037,Fowler Toyota of Tulsa,OK
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,,7MUFBABG2PV012040,Lynch Toyota of Auburn,AL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG2PV012085,Toyota of Deerfield Beach,FL
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,395.0,31460.0,Port to dealer,True,Available,7MUFBABG2PV012121,Toyota of Olympia,WA
@@ -591,13 +596,17 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG2PV013172,Ira Toyota,MA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG2PV013205,Freeman Toyota,CA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG2PV013222,Thayer Toyota,OH
+2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG2PV013267,Toyota of Erie,PA
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG2PV013303,Lost Pines Toyota,TX
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG2PV013317,Nashville Toyota North,TN
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG2PV013320,Antioch Toyota,CA
+2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG2PV013334,Heritage Toyota,VT
+2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG2PV013348,Williams Toyota of Elmira,NY
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG2PV013365,Columbia Gorge Toyota,OR
+2023,XSE AWD,Blue Crush Metallic,31065,3080.0,34145.0,Port to dealer,True,DealerHold,7MUFBABG2PV013401,Claremont Toyota,CA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG2PV38A979,Coggin Toyota at the Avenues,FL
-2023,XSE AWD,Celestite,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG2PV40A163,Mark Jacobson Toyota,NC
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,395.0,29685.0,Factory to port,True,,7MUFBABG2PV40A213,Toyota of Olympia,WA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,True,Available,7MUFBABG2PV40A244,Capitol Toyota of Salem,OR
-2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,True,DealerHold,7MUFBABG2PV40A258,Route 44 Toyota,MA
-2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG2PV40A664,Toyota of North Charlotte,NC
 2023,S AWD,Jet Black,27970,0.0,27970.0,Factory to port,False,DealerHold,7MUFBABG2PV40A941,Interstate Toyota,NY
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,,7MUFBABG2PV40A972,Town & Country Toyota,NC
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG2PV40B006,Valley Hi Toyota,CA
@@ -708,23 +717,21 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG3PV009681,Toyota of Hollywood,FL
 2023,SE AWD,Acidic Blast/Jet Black roof,29290,3995.0,33285.0,At dealer,False,Available,7MUFBABG3PV009714,Toyota of Greenwich,CT
 2023,SE AWD,Celestite,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG3PV009888,Ammaar's Toyota Vacaville,CA
-2023,SE AWD,Celestite,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG3PV009891,Toyota of Deerfield Beach,FL
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG3PV010068,Ed Morse Delray Toyota,FL
-2023,S AWD,Jet Black,27970,0.0,27970.0,At dealer,False,DealerHold,7MUFBABG3PV010071,Koons Tysons Toyota,VA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG3PV010152,Royal Moore Toyota,OR
-2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG3PV010264,Community Toyota,TX
+2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG3PV010264,Community Toyota,TX
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG3PV010359,Damian Lillard Toyota,OR
-2023,S AWD,Sonic Silver,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG3PV010412,Groove Toyota,CO
-2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG3PV010474,"Phil Wright Toyota, Co.",AR
+2023,S AWD,Sonic Silver,27970,0.0,27970.0,At dealer,True,DealerHold,7MUFBABG3PV010412,Groove Toyota,CO
+2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG3PV010474,"Phil Wright Toyota, Co.",AR
 2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG3PV010538,Post Oak Toyota,OK
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG3PV010586,Country Toyota,TX
-2023,S AWD,Wind Chill Pearl,27970,5995.0,33965.0,Port to dealer,False,Available,7MUFBABG3PV010619,Toyota of Richardson,TX
+2023,S AWD,Wind Chill Pearl,27970,5995.0,33965.0,At dealer,False,Available,7MUFBABG3PV010619,Toyota of Richardson,TX
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG3PV010622,Battlefield Toyota,VA
-2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG3PV010636,Cochran Toyota,PA
+2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG3PV010636,Cochran Toyota,PA
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG3PV010698,Preston Toyota,PA
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG3PV010703,Galaxy Toyota,NJ
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG3PV010717,Magness Toyota,AR
-2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG3PV010720,Del Toyota,PA
+2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,,7MUFBABG3PV010720,Del Toyota,PA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG3PV010765,Toyota of Deerfield Beach,FL
 2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,False,,7MUFBABG3PV010779,Ourisman Fairfax Toyota,VA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG3PV010796,Freeman Toyota,CA
@@ -738,7 +745,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,,7MUFBABG3PV011091,Thompson's Toyota of Placerville,CA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG3PV011169,Fred Anderson Toyota of Sanford,NC
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG3PV011186,Valdosta Toyota,GA
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,,7MUFBABG3PV011222,Marietta Toyota,GA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG3PV011253,Toyota of Gladstone,OR
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV011284,DeLuca Toyota,FL
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG3PV011298,Conicelli Toyota,PA
@@ -751,12 +757,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG3PV011463,Ardmore Toyota,PA
 2023,SE AWD,Sonic Silver,29290,2995.0,32285.0,At dealer,True,Available,7MUFBABG3PV011513,Lithia Toyota of Odessa,TX
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG3PV011527,Advantage Toyota,NY
+2023,SE AWD,Jet Black,29290,0.0,29290.0,At dealer,False,,7MUFBABG3PV011575,Jerry's Toyota,MD
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,Available,7MUFBABG3PV011589,Sloane Toyota of Philadelphia,PA
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG3PV011592,Toyota of Southern Maryland,MD
 2023,XSE AWD,Wind Chill Pearl,31065,648.0,31713.0,At dealer,True,DealerHold,7MUFBABG3PV011608,Don Ringler Toyota,TX
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG3PV011642,AutoNation Toyota Weston,FL
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,False,Available,7MUFBABG3PV011656,AutoNation Toyota Arapahoe,CO
-2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG3PV011673,Mike Erdman Toyota,FL
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG3PV011687,Joseph Toyota of Cincinnati,OH
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,,7MUFBABG3PV011690,Butler Toyota,GA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG3PV011706,Village Pointe Toyota,NE
@@ -832,22 +838,20 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG3PV013164,City Toyota,CA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG3PV013181,Haley Toyota of Farmville,VA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,Available,7MUFBABG3PV013200,DARCARS Toyota of Frederick,MD
+2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV013214,Seminole Toyota,FL
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV013228,Clearwater Toyota,FL
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG3PV013231,Kearny Mesa Toyota,CA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG3PV013245,Charlie's Toyota,ME
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG3PV013262,Toyota of Watertown,MA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG3PV013293,Toyota of Batavia,NY
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG3PV013326,Hanlees Toyota,CA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,True,,7MUFBABG3PV40A544,Lia Toyota,MA
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV40A589,Hendrick Toyota Concord,NC
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV40A642,Toyota of Greenville,SC
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG3PV40A656,Berlin City Toyota of Portland,ME
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,True,Available,7MUFBABG3PV40A687,Rivera Toyota of Mt. Kisco,NY
-2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG3PV40A950,AutoNation Toyota Weston,FL
-2023,XSE AWD,Blue Crush Metallic,31065,3080.0,34145.0,Factory to port,True,DealerHold,7MUFBABG3PV40B435,Claremont Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV40B452,Toyota of Rock Hill,SC
 2023,S AWD,Jet Black,27970,0.0,27970.0,Factory to port,True,DealerHold,7MUFBABG3PV40B483,Romano Toyota,NY
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV40B760,Jim Hudson Toyota,SC
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV40B824,Clearwater Toyota,FL
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG3PV40B838,West Herr Toyota of Williamsville,NY
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,,7MUFBABG3PV41A104,Bayside Toyota,MD
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,,7MUFBABG3PV41A653,Basil Toyota,NY
@@ -892,6 +896,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG3PV43A630,Toyota of Clermont,FL
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV43A658,Miracle Toyota of North Augusta,SC
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG3PV43A725,Kendall Toyota,FL
+2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG3PV43A918,South Bay Toyota,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG3PV43A921,Maita's Toyota of Sacramento,CA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,True,Available,7MUFBABG3PV43A966,AutoNation Toyota Cerritos,CA
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG3PV43A983,AutoNation Toyota Weston,FL
@@ -920,6 +925,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Wind Chill Pearl,31065,4488.0,35553.0,Factory to port,False,,7MUFBABG3PV44B756,Toyota of Renton,WA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG3PV44B773,Hendrick Toyota Apex,NC
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG3PV44B854,Alderman's Toyota,VT
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG4PV003064,Toyota Place,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG4PV005428,McGee Toyota of Dudley,MA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,Available,7MUFBABG4PV005736,Zanesville Toyota,OH
 2023,S AWD,Jet Black,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG4PV006210,Lia Toyota of Colonie,NY
@@ -937,7 +943,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG4PV009642,A-1 Toyota,CT
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG4PV009706,Walser Bloomington Toyota,MN
 2023,SE AWD,Jet Black,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG4PV009768,Ed Morse Delray Toyota,FL
-2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG4PV009981,Toyota of Pullman,WA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG4PV010001,Beaverton Toyota,OR
 2023,S AWD,Sonic Silver,27970,799.0,28769.0,Port to dealer,False,,7MUFBABG4PV010029,Steven Toyota,VA
 2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,False,,7MUFBABG4PV010113,Ourisman Chantilly Toyota,VA
@@ -969,11 +974,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG4PV011259,Toyota of Colchester,CT
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG4PV011262,Marina Del Rey Toyota,CA
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG4PV011309,Toyota Chula Vista,CA
-2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG4PV011326,Fitzgerald Toyota Chambersburg,PA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,True,Available,7MUFBABG4PV011360,Texas Toyota of Grapevine,TX
 2023,SE AWD,Jet Black,29290,2490.0,31780.0,Port to dealer,False,Available,7MUFBABG4PV011388,Toyota of El Cajon,CA
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG4PV011410,Right Toyota,AZ
-2023,SE AWD,Wind Chill Pearl,29290,2777.0,32067.0,At dealer,False,DealerHold,7MUFBABG4PV011424,AutoNation Toyota Buena Park,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG4PV011438,Galaxy Toyota,NJ
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG4PV011469,Future Toyota of Yuba City,CA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG4PV011472,Mossy Toyota,CA
@@ -1003,7 +1006,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG4PV011908,Haddad Toyota,MA
 2023,S AWD,Jet Black,27970,0.0,27970.0,At dealer,False,Available,7MUFBABG4PV011911,Leith Toyota,NC
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,At dealer,False,,7MUFBABG4PV011925,Ed Morse Delray Toyota,FL
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG4PV011939,Williams Toyota of Sayre,PA
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG4PV011939,Williams Toyota of Sayre,PA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG4PV011942,O'Brien Toyota,IN
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG4PV011956,Temecula Valley Toyota,CA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,,7MUFBABG4PV011973,AutoNation Toyota Winter Park,FL
@@ -1071,8 +1074,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG4PV013156,Toyota of Richardson,TX
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG4PV013206,Envision Toyota of Norwalk,CA
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG4PV013223,Principle Toyota of Hernando,MS
+2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV013237,Headquarter Toyota,FL
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG4PV013240,Torrington Toyota,CT
+2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG4PV013304,Toyota of Cool Springs,TN
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG4PV013321,Fox Toyota,MI
+2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG4PV013402,Beaman Toyota,TN
+2023,SE AWD,Sonic Silver,29290,1650.0,30940.0,Port to dealer,False,,7MUFBABG4PV013416,Kolar Toyota,MN
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG4PV40A553,Penn Toyota,NY
 2023,XSE AWD,Celestite,31065,2273.0,33338.0,Factory to port,True,,7MUFBABG4PV40A617,AutoNation Toyota Hayward,CA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,2594.0,31884.0,Factory to port,False,,7MUFBABG4PV40A956,Hudson Toyota,NJ
@@ -1081,7 +1088,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV40B041,Toyota of Hollywood,FL
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG4PV40B430,Arlington Toyota,FL
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV40B475,Southern 441 Toyota,FL
-2023,SE AWD,Jet Black,29290,4966.0,34256.0,Factory to port,False,,7MUFBABG4PV40B735,Toyota of Turnersville,NJ
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG4PV40B797,Headquarter Toyota,FL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV40B833,Hendrick Toyota North Charleston,SC
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV41A080,Gatorland Toyota,FL
@@ -1118,7 +1124,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,,7MUFBABG4PV42B158,Santa Margarita Toyota,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV42B306,Tuscaloosa Toyota,AL
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Factory to port,False,,7MUFBABG4PV42B337,Dublin Toyota,CA
-2023,XSE AWD,Celestite,31065,0.0,31065.0,Factory to port,False,,7MUFBABG4PV42B340,South Bay Toyota,CA
+2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,,7MUFBABG4PV42B340,South Bay Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG4PV42B354,Rick Hendrick Toyota Sandy Springs,GA
 2023,XSE AWD,Jet Black,31065,2594.0,33659.0,Factory to port,False,DealerHold,7MUFBABG4PV42B371,Hudson Toyota,NJ
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Factory to port,False,,7MUFBABG4PV42B872,"Glen Motors, Inc.",NJ
@@ -1177,7 +1183,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG5PV009259,C F Schwartz Toyota,DE
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG5PV009262,Toyota of Massapequa,NY
 2023,XSE AWD,Wind Chill Pearl,31065,4795.0,35860.0,At dealer,True,DealerHold,7MUFBABG5PV009665,Universal Toyota,TX
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG5PV009701,Toyota of Hackensack,NJ
 2023,S AWD,Jet Black,27970,0.0,27970.0,At dealer,False,,7MUFBABG5PV010119,Toyota of Riverside,CA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,2385.0,33450.0,At dealer,True,DealerHold,7MUFBABG5PV010122,Thousand Oaks Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG5PV010167,Toyota of Hollywood,FL
@@ -1192,6 +1197,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,,7MUFBABG5PV010542,Avondale Toyota,AZ
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG5PV010654,Gulf Coast Toyota,TX
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,,7MUFBABG5PV010668,Toyota of Laramie,WY
+2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,399.0,31464.0,At dealer,False,DealerHold,7MUFBABG5PV010671,Toyota of Muskegon,MI
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG5PV010749,Mountain States Toyota,CO
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG5PV010783,Performance Toyota Bountiful,UT
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG5PV010914,Yokem Toyota,LA
@@ -1199,19 +1205,19 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG5PV010976,Toyota of Massapequa,NY
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,3117.0,34182.0,Port to dealer,False,,7MUFBABG5PV011013,Norm Reeves Toyota San Diego,CA
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG5PV011030,Toyota of Orange,CA
-2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG5PV011044,Fitzgerald Toyota Gaithersburg,MD
-2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG5PV011089,Expressway Toyota,MA
+2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG5PV011044,Fitzgerald Toyota Gaithersburg,MD
+2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG5PV011075,Don McGill Toyota of Katy,TX
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG5PV011092,Rudy Luther Toyota,MN
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG5PV011108,Team Toyota of Glen Mills,PA
 2023,XSE AWD,Sonic Silver,31065,3672.0,34737.0,At dealer,False,DealerHold,7MUFBABG5PV011156,AutoNation Toyota Buena Park,CA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,False,,7MUFBABG5PV011187,Lewis Toyota of Hays,KS
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG5PV011206,Tony Divino Toyota,UT
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,DealerHold,7MUFBABG5PV011268,Bergeron Toyota,MI
+2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG5PV011271,Post Oak Toyota,OK
 2023,XSE AWD,Jet Black,31065,1495.0,32560.0,At dealer,False,DealerHold,7MUFBABG5PV011304,Bohn Toyota,LA
-2023,S AWD,Sonic Silver,27970,2995.0,30965.0,Port to dealer,False,Available,7MUFBABG5PV011321,James Hodge Toyota,OK
+2023,S AWD,Sonic Silver,27970,2995.0,30965.0,At dealer,False,Available,7MUFBABG5PV011321,James Hodge Toyota,OK
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,Available,7MUFBABG5PV011349,Westchester Toyota,NY
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,At dealer,False,,7MUFBABG5PV011383,"Glen Motors, Inc.",NJ
-2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG5PV011397,Jim White Toyota,OH
 2023,SE AWD,Jet Black,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG5PV011402,Heritage Toyota Catonsville,MD
 2023,SE AWD,Celestite,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG5PV011416,Down East Toyota,ME
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG5PV011450,Panama City Toyota,FL
@@ -1221,7 +1227,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG5PV011559,City Toyota,CA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG5PV011562,Right Toyota,AZ
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG5PV011576,Voss Toyota,OH
-2023,SE AWD,Sonic Silver,29290,1995.0,31285.0,At dealer,True,DealerHold,7MUFBABG5PV011593,Cavender Toyota,TX
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,True,Available,7MUFBABG5PV011612,AutoNation Toyota Cerritos,CA
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG5PV011626,Palmiero Toyota,PA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG5PV011657,Lipton Toyota,FL
@@ -1300,14 +1305,12 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG5PV013117,Toyota of Bozeman,MT
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Factory to port,False,,7MUFBABG5PV013134,Fred Anderson Toyota of Asheville,NC
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG5PV013196,Magnussen's Toyota of Palo Alto,CA
-2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG5PV013229,Toyota of Cedar Park,TX
+2023,SE AWD,Sonic Silver,29290,1098.0,30388.0,Factory to port,False,Available,7MUFBABG5PV013229,Toyota of Cedar Park,TX
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,Available,7MUFBABG5PV013232,Toyota of Gladstone,OR
+2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG5PV013277,Stadium Toyota,FL
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG5PV013280,Newark Toyotaworld,DE
 2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG5PV013294,Plaza Toyota,NY
-2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG5PV40A223,Central Florida Toyota,FL
-2023,SE AWD,Sonic Silver,29290,1650.0,30940.0,Factory to port,False,,7MUFBABG5PV40A545,Kolar Toyota,MN
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG5PV40A576,Nalley Toyota of Roswell,GA
-2023,SE AWD,Sonic Silver/Jet Black roof,29290,2594.0,31884.0,Factory to port,False,,7MUFBABG5PV40A657,Hudson Toyota,NJ
 2023,S AWD,Jet Black,27970,0.0,27970.0,Factory to port,False,,7MUFBABG5PV40A674,Sunrise Toyota North,NY
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABG5PV40B047,Fordham Toyota,NY
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,True,DealerHold,7MUFBABG5PV40B078,Falmouth Toyota,MA
@@ -1403,7 +1406,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG6PV009755,Palm Beach Toyota,FL
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,DealerHold,7MUFBABG6PV009965,Pat Lobb Toyota of McKinney,TX
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG6PV010033,Capistrano Valley Toyota,CA
-2023,S AWD,Celestite,27970,0.0,27970.0,At dealer,False,DealerHold,7MUFBABG6PV010095,Culver City Toyota,CA
+2023,S AWD,Celestite,27970,0.0,27970.0,At dealer,False,Available,7MUFBABG6PV010095,Bill Wright Toyota,CA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG6PV010193,Toyota of Puyallup,WA
 2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG6PV010209,Beaverton Toyota,OR
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG6PV010291,Valdosta Toyota,GA
@@ -1416,7 +1419,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,,7MUFBABG6PV010646,WOW Toyota of Wallingford,CT
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG6PV010677,Classic Toyota,OH
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG6PV010694,Earnhardt Toyota,AZ
-2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG6PV010792,Toyota Place,CA
+2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG6PV010792,Toyota Place,CA
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,At dealer,False,,7MUFBABG6PV010808,International Toyota,WI
 2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG6PV010811,Inver Grove Toyota,MN
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG6PV010839,Fred Anderson Toyota of Sanford,NC
@@ -1431,8 +1434,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,,7MUFBABG6PV011084,Hillside Toyota,NY
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG6PV011098,Bernardi Toyota,MA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG6PV011120,Findlay Toyota,NV
-2023,XSE AWD,Jet Black,31065,3085.0,34150.0,At dealer,False,DealerHold,7MUFBABG6PV011134,Toyota of Glendale,CA
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG6PV011246,Andy Mohr Toyota,IN
 2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,1773.0,31063.0,Port to dealer,False,,7MUFBABG6PV011263,AutoNation Toyota Tempe,AZ
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG6PV011294,Serra Toyota,AL
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG6PV011358,Anderson-Weber Toyota,IA
@@ -1445,16 +1446,14 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG6PV011537,Envision Toyota of West Covina,CA
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG6PV011540,Lee Toyota,ME
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG6PV011571,Lithia Toyota,OR
-2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG6PV011599,Toyota of Huntington Beach,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,,7MUFBABG6PV011618,Arlington Toyota,FL
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,,7MUFBABG6PV011649,AutoNation Toyota Mall of Georgia,GA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG6PV011683,Team Toyota of Princeton,NJ
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG6PV011697,Del Toyota,PA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,True,Available,7MUFBABG6PV011750,AutoNation Toyota Cerritos,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG6PV011778,Team Toyota of Glen Mills,PA
 2023,XSE AWD,Wind Chill Pearl,31065,1095.0,32160.0,At dealer,False,Available,7MUFBABG6PV011781,Panama City Toyota,FL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG6PV011800,Toyota of San Bernardino,CA
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG6PV011859,Toyota of Lincoln Park,IL
+2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG6PV011859,Toyota of Lincoln Park,IL
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG6PV011862,Allegheny Toyota,PA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG6PV011876,Fitzgerald Toyota Gaithersburg,MD
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG6PV011909,Culver City Toyota,CA
@@ -1465,7 +1464,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Sonic Silver,27970,2594.0,30564.0,Port to dealer,False,,7MUFBABG6PV012025,Hudson Toyota,NJ
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG6PV012039,Central Florida Toyota,FL
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG6PV012042,Koons Tysons Toyota,VA
-2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,At dealer,False,,7MUFBABG6PV012056,AutoNation Toyota Mall of Georgia,GA
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG6PV012087,Brunswick Toyota,OH
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG6PV012106,Performance Motors Toyota,PA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG6PV012123,Golling Toyota of Warren,MI
@@ -1509,21 +1507,24 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABG6PV012851,Toyota of Anaheim,CA
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG6PV012865,Gene Messer Toyota,TX
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG6PV012901,Toyota Direct,OH
+2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG6PV012963,One Toyota of Oakland,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG6PV013045,Stevens Creek Toyota,CA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG6PV013076,One Toyota of Oakland,CA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG6PV013093,Dan Cava's Toyota World,WV
 2023,S AWD,Sonic Silver,27970,2985.0,30955.0,Port to dealer,True,DealerHold,7MUFBABG6PV013112,Toyota World of Lakewood,NJ
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG6PV013126,Jerry Ackerman Toyota,MO
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG6PV013157,Herb Chambers Toyota of Auburn,MA
+2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG6PV013188,Earl Stewart Toyota of North Palm Beach,FL
+2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG6PV013191,AutoNation Toyota Weston,FL
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG6PV013210,Corwin Toyota,ND
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG6PV013269,Woburn Toyota,MA
 2023,SE AWD,Acidic Blast/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG6PV013286,Phillips Toyota,FL
+2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG6PV013319,DCH Freehold Toyota,NJ
+2023,S AWD,Jet Black,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG6PV013403,Shelor Toyota,VA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,,7MUFBABG6PV40A151,Rick Hendrick Toyota Sandy Springs,GA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,False,,7MUFBABG6PV40A621,Toyota of Poway,CA
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Factory to port,True,DealerHold,7MUFBABG6PV40A957,McGee Toyota of Claremont,NH
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG6PV40A960,Modern Toyota,NC
-2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG6PV40B039,Headquarter Toyota,FL
-2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,,7MUFBABG6PV40B431,AutoNation Toyota Mall of Georgia,GA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG6PV40B462,Coggin Toyota at the Avenues,FL
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,,7MUFBABG6PV40B770,AutoNation Toyota Winter Park,FL
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,,7MUFBABG6PV41A078,East Coast Toyota,NJ
@@ -1629,7 +1630,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG7PV010185,Walser Bloomington Toyota,MN
 2023,SE AWD,Celestite,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABG7PV010204,Lancaster Toyota,PA
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,At dealer,False,,7MUFBABG7PV010249,Toyota of North Miami,FL
-2023,SE AWD,Jet Black,29290,0.0,29290.0,At dealer,False,,7MUFBABG7PV010252,Elk Grove Toyota,CA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,,7MUFBABG7PV010333,Toyota of Bourbonnais,IL
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG7PV010347,Advantage Toyota,NY
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG7PV010543,Miller Toyota,VA
@@ -1731,14 +1731,19 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG7PV013118,Panama City Toyota,FL
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Factory to port,False,,7MUFBABG7PV013135,Hendrick Toyota Apex,NC
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG7PV013152,Miller Toyota,VA
+2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG7PV013166,Tegeler Toyota,TX
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG7PV013247,Walser Bloomington Toyota,MN
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG7PV013295,Toyota of Nashua,NH
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG7PV013300,Island Toyota,NY
+2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG7PV013314,Toyota of The Desert,CA
+2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,Available,7MUFBABG7PV013328,Universal Toyota,TX
+2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG7PV013359,Route 44 Toyota,MA
+2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG7PV013362,Victory Toyota,CA
+2023,S AWD,Jet Black,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG7PV013393,Toyota of Massapequa,NY
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG7PV40A255,Seminole Toyota,FL
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG7PV40A546,Victory Toyota of Midtown,IL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG7PV40B048,"Molle Toyota, Inc.",MO
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG7PV40B051,Toyota of Pharr,TX
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG7PV40B776,Toyota of Melbourne,FL
 2023,XSE AWD,Barcelona Red Metallic,31065,3080.0,34145.0,Factory to port,True,DealerHold,7MUFBABG7PV40B793,Claremont Toyota,CA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG7PV40B826,Toyota of Hollywood,FL
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,True,Available,7MUFBABG7PV41A073,San Francisco Toyota,CA
@@ -1819,7 +1824,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG8PV001673,Courtesy Toyota,FL
 2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG8PV001981,City World Toyota,NY
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG8PV003925,Bob Smith Toyota,CA
-2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,At dealer,False,,7MUFBABG8PV005304,Del Toyota,PA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG8PV006341,Gloucester Toyota,VA
 2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG8PV007957,City World Toyota,NY
 2023,SE AWD,Acidic Blast/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG8PV008574,Koons Tysons Toyota,VA
@@ -1842,7 +1846,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Wind Chill Pearl,31065,2596.0,33661.0,Port to dealer,False,DealerHold,7MUFBABG8PV010048,Gresham Toyota,OR
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG8PV010180,Toyota Walnut Creek,CA
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,At dealer,False,,7MUFBABG8PV010244,Toyota of Orlando,FL
-2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,At dealer,False,,7MUFBABG8PV010499,Hansel Toyota,CA
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG8PV010504,Kendall Toyota of Bend,OR
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV010549,Camelback Toyota,AZ
 2023,S AWD,Jet Black,27970,0.0,27970.0,At dealer,False,,7MUFBABG8PV010566,South Dade Toyota,FL
@@ -1862,7 +1865,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV011023,Columbia Gorge Toyota,OR
 2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG8PV011054,Sheehy Toyota of Laurel,MD
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABG8PV011183,Shelor Toyota,VA
-2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV011233,Motorworld Toyota,PA
+2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG8PV011233,Motorworld Toyota,PA
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG8PV011247,Burdick Toyota,NY
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG8PV011264,Koons Tysons Toyota,VA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG8PV011278,David Wilson's Toyota of Las Vegas,NV
@@ -1878,7 +1881,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,,7MUFBABG8PV011541,Ed Morse Delray Toyota,FL
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG8PV011569,Team Toyota,IN
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV011572,Laurel Toyota,PA
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG8PV011586,Lakeland Toyota,FL
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG8PV011619,Toyota of Watertown,MA
 2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,True,,7MUFBABG8PV011622,Lia Toyota,MA
 2023,SE AWD,Barcelona Red Metallic,29290,1995.0,31285.0,Port to dealer,False,Available,7MUFBABG8PV011670,Toyota of Killeen,TX
@@ -1942,6 +1944,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG8PV012978,Toyota of Richardson,TX
 2023,XSE AWD,Barcelona Red Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV012981,White River Toyota,VT
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG8PV013001,Toyota of Clermont,FL
+2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG8PV013015,San Francisco Toyota,CA
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG8PV013029,Legends Toyota,KS
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,False,Available,7MUFBABG8PV013032,Toyota of Lake City,WA
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV013046,Graham Toyota,OH
@@ -1956,11 +1959,15 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG8PV013239,Performance Motors Toyota,PA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG8PV013242,Poe Toyota,TX
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG8PV013256,Manhattan Beach Toyota,CA
+2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,,7MUFBABG8PV013273,AutoNation Toyota Mall of Georgia,GA
 2023,SE AWD,Blue Crush Metallic,29290,3085.0,32375.0,Port to dealer,False,,7MUFBABG8PV013290,Toyota of Glendale,CA
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG8PV013337,Toyota of Melbourne,FL
+2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG8PV013340,Toyota of North Charlotte,NC
+2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG8PV013371,Don Moore Toyota,KY
+2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG8PV013385,Olathe Toyota,KS
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,1278.0,32343.0,Factory to port,True,DealerHold,7MUFBABG8PV40A250,AutoNation Toyota Irvine,CA
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,,7MUFBABG8PV40A586,Stone Mountain Toyota,GA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG8PV40A622,Santa Margarita Toyota,CA
-2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,,7MUFBABG8PV40A653,Hendrick Toyota Apex,NC
 2023,SE AWD,Celestite,29290,2596.0,31886.0,Factory to port,False,DealerHold,7MUFBABG8PV40B012,Gresham Toyota,OR
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,,7MUFBABG8PV40B429,AutoNation Toyota Pinellas Park,FL
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG8PV40B432,Valdosta Toyota,GA
@@ -1983,7 +1990,6 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Blue Crush Metallic,31065,2098.0,33163.0,Factory to port,False,,7MUFBABG8PV41B491,Toyota of Surprise,AZ
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,,7MUFBABG8PV41B507,City Toyota,CA
 2023,SE AWD,Jet Black,29290,1899.0,31189.0,Factory to port,False,,7MUFBABG8PV41B524,Wolfchase Toyota,TN
-2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,,7MUFBABG8PV41B572,Butte Toyota,MT
 2023,SE AWD,Wind Chill Pearl,29290,989.0,30279.0,Factory to port,False,,7MUFBABG8PV41B684,Dayton Toyota,NJ
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG8PV41B734,Lipton Toyota,FL
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG8PV41B748,Toyota of Santa Fe,NM
@@ -2048,11 +2054,9 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Celestite,27970,0.0,27970.0,At dealer,False,,7MUFBABG9PV007692,Jerry's Toyota,MD
 2023,XSE AWD,Jet Black,31065,1495.0,32560.0,At dealer,False,,7MUFBABG9PV008213,Kolar Toyota,MN
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG9PV008910,Scott Clark Toyota,NC
-2023,XSE AWD,Celestite,31065,0.0,31065.0,At dealer,False,,7MUFBABG9PV009037,Dublin Toyota,CA
 2023,XSE AWD,Celestite,31065,249.0,31314.0,At dealer,False,Available,7MUFBABG9PV009152,Northcutt Toyota,OK
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG9PV009202,Team Toyota,OH
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABG9PV009216,Nalley Toyota of Roswell,GA
-2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG9PV009510,Sansone Toyota,NJ
 2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG9PV009569,Island Toyota,NY
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG9PV009636,Manhattan Beach Toyota,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG9PV009653,I-10 Toyota,CA
@@ -2061,7 +2065,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABG9PV009801,Colonial Toyota,PA
 2023,XSE AWD,Jet Black,31065,799.0,31864.0,Port to dealer,False,Available,7MUFBABG9PV009880,Landers Toyota NWA,AR
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG9PV009975,L & S Toyota of Beckley,WV
-2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG9PV010057,Toyota of Seattle,WA
+2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,True,,7MUFBABG9PV010057,Toyota of Seattle,WA
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG9PV010186,Baierl Toyota,PA
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG9PV010284,SVG Toyota,OH
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG9PV010348,Bud Clary Toyota of Yakima,WA
@@ -2099,14 +2103,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Celestite,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABG9PV011595,Autoland Toyota,NJ
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG9PV011600,Toyota of Santa Maria,CA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG9PV011628,Toyota of San Bernardino,CA
-2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABG9PV011631,AutoNation Toyota Weston,FL
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG9PV011659,Toyota City,NY
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG9PV011676,Mike Erdman Toyota,FL
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG9PV011693,South Dade Toyota,FL
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG9PV011709,Hanlees Fairfield Toyota,CA
 2023,SE AWD,Celestite,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG9PV011712,Vic Vaughan Toyota of Boerne,TX
 2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,False,DealerHold,7MUFBABG9PV011726,West Herr Toyota of Williamsville,NY
-2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,Available,7MUFBABG9PV011757,Bob Howard Toyota,OK
+2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,False,Available,7MUFBABG9PV011757,Bob Howard Toyota,OK
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG9PV011774,Toyota of Lake City,WA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG9PV011788,Envision Toyota of Norwalk,CA
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG9PV011791,Koch 33 Toyota,PA
@@ -2143,7 +2146,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Celestite,29290,1999.0,31289.0,Port to dealer,True,,7MUFBABG9PV012441,Foothills Toyota,WA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,,7MUFBABG9PV012455,Arlington Toyota,FL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,,7MUFBABG9PV012486,Toyota of Vallejo,CA
-2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG9PV012519,Cobb County Toyota,GA
+2023,SE AWD,Celestite,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG9PV012519,Cherokee County Toyota,GA
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG9PV012522,Big Two Toyota of Chandler,AZ
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABG9PV012536,Freeman Toyota,CA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG9PV012553,Greenville Toyota,NC
@@ -2177,19 +2180,18 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Port to dealer,True,,7MUFBABG9PV013265,Avondale Toyota,AZ
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABG9PV013279,Passport Toyota,MD
 2023,SE AWD,Celestite,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG9PV013296,Camelback Toyota,AZ
+2023,S AWD,Wind Chill Pearl,27970,989.0,28959.0,Port to dealer,False,,7MUFBABG9PV013315,Dayton Toyota,NJ
+2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,False,,7MUFBABG9PV013413,Sansone Toyota,NJ
 2023,SE AWD,Blue Crush Metallic/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG9PV40A208,Sarasota Toyota,FL
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Factory to port,False,,7MUFBABG9PV40A256,Orland Toyota,IL
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,,7MUFBABG9PV40A645,Watermark Toyota,KY
 2023,SE AWD,Barcelona Red Metallic,29290,3265.0,32555.0,Factory to port,False,,7MUFBABG9PV40B018,Toyota of Bedford,OH
-2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Factory to port,True,DealerHold,7MUFBABG9PV40B021,Toyota of Puyallup,WA
 2023,XSE AWD,Acidic Blast/Jet Black roof,31065,3117.0,34182.0,Factory to port,True,DealerHold,7MUFBABG9PV40B066,Norm Reeves Toyota San Diego,CA
-2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG9PV40B357,Earl Stewart Toyota of North Palm Beach,FL
 2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,,7MUFBABG9PV40B388,Toyota of Hackensack,NJ
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Factory to port,False,,7MUFBABG9PV40B407,Robinson Toyota,TN
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG9PV40B441,Joseph Toyota of Cincinnati,OH
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,,7MUFBABG9PV40B729,DCH Brunswick Toyota,NJ
 2023,S AWD,Jet Black,27970,987.0,28957.0,Factory to port,False,Available,7MUFBABG9PV40B746,Greentree Toyota,CT
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG9PV40B777,Panama City Toyota,FL
 2023,XSE AWD,Jet Black,31065,3085.0,34150.0,Factory to port,False,,7MUFBABG9PV40B794,Toyota of Glendale,CA
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG9PV40B861,Paul Miller Toyota of West Caldwell,NJ
 2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG9PV41A043,Orland Toyota,IL
@@ -2277,13 +2279,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Celestite,27970,0.0,27970.0,Port to dealer,True,DealerHold,7MUFBABGXPV009645,Lithia Toyota of Billings,MT
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABGXPV009676,DeLuca Toyota,FL
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABGXPV009726,Village Cadillac-Toyota,FL
-2023,SE AWD,Wind Chill Pearl,29290,1875.0,31165.0,Port to dealer,True,DealerHold,7MUFBABGXPV009743,Red McCombs Toyota,TX
+2023,SE AWD,Wind Chill Pearl,29290,1875.0,31165.0,At dealer,True,DealerHold,7MUFBABGXPV009743,Red McCombs Toyota,TX
 2023,SE AWD,Acidic Blast/Jet Black roof,29290,3080.0,32370.0,Port to dealer,True,DealerHold,7MUFBABGXPV009967,Claremont Toyota,CA
 2023,SE AWD,Wind Chill Pearl,29290,2995.0,32285.0,At dealer,False,DealerHold,7MUFBABGXPV010035,Paul Miller Toyota of West Caldwell,NJ
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,At dealer,True,,7MUFBABGXPV010102,Doxon Toyota,WA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABGXPV010116,Coughlin Toyota,OH
 2023,SE AWD,Barcelona Red Metallic/Jet Black roof,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABGXPV010164,Vancouver Toyota,WA
-2023,XSE AWD,Wind Chill Pearl,31065,2273.0,33338.0,At dealer,False,DealerHold,7MUFBABGXPV010200,AutoNation Toyota Hayward,CA
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABGXPV010200,AutoNation Toyota Hayward,CA
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,At dealer,False,Available,7MUFBABGXPV010309,Bruner Toyota,TX
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,At dealer,True,DealerHold,7MUFBABGXPV010343,I-10 Toyota,CA
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,At dealer,False,Available,7MUFBABGXPV010391,Toyota of Clermont,FL
@@ -2303,7 +2305,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,At dealer,False,DealerHold,7MUFBABGXPV011055,Ruda Chevrolet/Toyota,WI
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABGXPV011105,Lithia Toyota of Missoula,MT
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABGXPV011122,Lithia Toyota of Klamath Falls,OR
-2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABGXPV011153,Serra Toyota of Saginaw,MI
+2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,True,DealerHold,7MUFBABGXPV011153,Serra Toyota of Saginaw,MI
 2023,XSE AWD,Blue Crush Metallic/Jet Black roof,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABGXPV011167,Berglund Toyota,VA
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABGXPV011184,Parker Toyota,ID
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,At dealer,False,Available,7MUFBABGXPV011220,Walker-Jones Toyota,GA
@@ -2320,6 +2322,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,XSE AWD,Barcelona Red Metallic/Jet Black roof,31065,0.0,31065.0,Port to dealer,False,,7MUFBABGXPV011542,MINOT TOYOTA CENTER,ND
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,True,,7MUFBABGXPV011573,Basil Toyota,NY
 2023,XSE AWD,Celestite,31065,0.0,31065.0,Port to dealer,False,Available,7MUFBABGXPV011590,Santa Margarita Toyota,CA
+2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABGXPV011637,Modesto Toyota,CA
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,At dealer,False,DealerHold,7MUFBABGXPV011654,Conicelli Toyota,PA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABGXPV011699,Teton Toyota,ID
 2023,XSE AWD,Jet Black,31065,1990.0,33055.0,At dealer,True,,7MUFBABGXPV011704,East Madison Toyota,WI
@@ -2396,10 +2399,13 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Wind Chill Pearl,27970,0.0,27970.0,Port to dealer,False,,7MUFBABGXPV013145,Oak Lawn Toyota,IL
 2023,XSE AWD,Jet Black,31065,0.0,31065.0,Port to dealer,True,DealerHold,7MUFBABGXPV013159,Baxter Toyota of La Vista,NE
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Port to dealer,True,Available,7MUFBABGXPV013176,Northway Toyota,NY
+2023,XSE AWD,Celestite,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABGXPV013288,Mark Jacobson Toyota,NC
+2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABGXPV013291,Tansky Sawmill Toyota,OH
+2023,SE AWD,Jet Black,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABGXPV013310,Central Florida Toyota,FL
+2023,XSE AWD,Jet Black,31065,1495.0,32560.0,Factory to port,False,Available,7MUFBABGXPV013355,Toyota of Fort Worth,TX
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABGXPV40A573,Toyota of Hollywood,FL
 2023,SE AWD,Wind Chill Pearl,29290,0.0,29290.0,Factory to port,False,,7MUFBABGXPV40A606,Faulkner Toyota,PA
 2023,XSE AWD,Sonic Silver/Jet Black roof,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABGXPV40A654,Valdosta Toyota,GA
-2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Factory to port,True,DealerHold,7MUFBABGXPV40A959,Tansky Sawmill Toyota,OH
 2023,XSE AWD,Sonic Silver,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABGXPV40A993,Lipton Toyota,FL
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABGXPV40B027,Eastern Shore Toyota,AL
 2023,SE AWD,Sonic Silver/Jet Black roof,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABGXPV40B030,Doral Toyota,FL
@@ -2479,7 +2485,7 @@ Year,Model,Color,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Sta
 2023,S AWD,Sonic Silver,27970,0.0,27970.0,Factory to port,False,,7MUFBABGXPV43B791,Fred Anderson Toyota of Asheville,NC
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABGXPV44A166,North Georgia Toyota,GA
 2023,XSE AWD,Blue Crush Metallic,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABGXPV44A183,West Kendall Toyota,FL
-2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,False,DealerHold,7MUFBABGXPV44A202,Page Toyota,MI
+2023,SE AWD,Blue Crush Metallic,29290,0.0,29290.0,Factory to port,True,DealerHold,7MUFBABGXPV44A202,Page Toyota,MI
 2023,XSE AWD,Wind Chill Pearl,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABGXPV44A247,Faulkner Toyota,PA
 2023,SE AWD,Sonic Silver,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABGXPV44A569,Doral Toyota,FL
 2023,SE AWD,Barcelona Red Metallic,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABGXPV44A572,Palm Beach Toyota,FL
