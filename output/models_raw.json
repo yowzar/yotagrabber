@@ -107,43 +107,6 @@
   },
   {
     "asShownDisclaimer":null,
-    "asShown":"$35,220 as shown [global_msrp_as_shown_disclaimer]",
-    "cityMPG":"51",
-    "disclaimer":"[global_prelim_mpg_2024_camry_disclaimer]",
-    "family":[
-      "Cars &amp; Minivan",
-      "Electrified"
-    ],
-    "families":[
-      {
-        "seqNo":9,
-        "familiyType":"Cars &amp; Minivan"
-      },
-      {
-        "seqNo":11,
-        "familiyType":"Electrified"
-      }
-    ],
-    "hoverImage":null,
-    "hwyMPG":"53",
-    "image":"https:\/\/www.toyota.com\/imgix\/content\/dam\/toyota\/jellies\/relative\/2024\/camryhybrid\/base.png",
-    "modelCode":"camryhybrid",
-    "msrp":"28855",
-    "series":"Camry Hybrid",
-    "shortDescription":null,
-    "title":"Camry Hybrid",
-    "year":"2024",
-    "mpgDisclaimerCode":"[global_prelim_mpg_2024_camry_disclaimer]",
-    "mpgeDisclaimerCode":"",
-    "msrpDisclaimerCode":"[global_msrp_starting_disclaimer]",
-    "mpge":null,
-    "range":null,
-    "topLabel.iconField":null,
-    "topLabel.textField":"Hybrid",
-    "bottomLabel.textField":""
-  },
-  {
-    "asShownDisclaimer":null,
     "asShown":"$25,490 as shown [global_msrp_as_shown_disclaimer]",
     "cityMPG":"32",
     "disclaimer":"[global_prelim_mpg_2024_corolla_disclaimer]",
@@ -221,7 +184,7 @@
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":12,
+        "seqNo":11,
         "familiyType":"Electrified"
       }
     ],
@@ -322,7 +285,7 @@
     ],
     "families":[
       {
-        "seqNo":11,
+        "seqNo":10,
         "familiyType":"Cars &amp; Minivan"
       }
     ],
@@ -386,7 +349,7 @@
     ],
     "families":[
       {
-        "seqNo":12,
+        "seqNo":11,
         "familiyType":"Cars &amp; Minivan"
       }
     ],
@@ -525,11 +488,11 @@
     ],
     "families":[
       {
-        "seqNo":10,
+        "seqNo":9,
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":19,
+        "seqNo":18,
         "familiyType":"Electrified"
       }
     ],
@@ -746,7 +709,7 @@
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":17,
+        "seqNo":16,
         "familiyType":"Electrified"
       }
     ],
@@ -779,11 +742,11 @@
     ],
     "families":[
       {
-        "seqNo":13,
+        "seqNo":12,
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":18,
+        "seqNo":17,
         "familiyType":"Electrified"
       }
     ],
@@ -852,7 +815,7 @@
         "familiyType":"Trucks"
       },
       {
-        "seqNo":15,
+        "seqNo":14,
         "familiyType":"Electrified"
       }
     ],
@@ -889,7 +852,7 @@
         "familiyType":"Cars &amp; Minivan"
       },
       {
-        "seqNo":13,
+        "seqNo":12,
         "familiyType":"Electrified"
       }
     ],
@@ -958,7 +921,7 @@
         "familiyType":"Trucks"
       },
       {
-        "seqNo":16,
+        "seqNo":15,
         "familiyType":"Electrified"
       }
     ],
@@ -995,7 +958,7 @@
         "familiyType":"Crossovers &amp; SUVs"
       },
       {
-        "seqNo":20,
+        "seqNo":19,
         "familiyType":"Electrified"
       }
     ],
